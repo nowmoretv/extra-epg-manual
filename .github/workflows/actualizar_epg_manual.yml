@@ -1,0 +1,32 @@
+name: Generar EPG Manual
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  build-manual-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Descargar repositorio
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Ejecutar generador manual
+      run: python generar_epg_manual.py
+
+    - name: Guardar XML en GitHub
+      run: |
+        git config --global user.name "Manual EPG Bot"
+        git config --global user.email "bot@github.com"
+        git add epg_manual.xml
+        git commit -m "Auto-actualización EPG manual (3 días) [skip ci]" || exit 0
+        git push
