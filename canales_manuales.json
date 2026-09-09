@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Canal Propio 1",
+    "name": "Canal Propio 1",
+    "title": "Emisión Continua 24h",
+    "desc": "Programación ininterrumpida con los mejores contenidos del canal."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "Grandes Éxitos Non-Stop",
+    "desc": "Selección musical continua sin cortes comerciales."
+  }
+]
