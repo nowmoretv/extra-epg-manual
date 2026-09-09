@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator_info_name="EPG Manual Generator">
+  <channel id="Canal Propio 1">
+    <display-name>Canal Propio 1</display-name>
+  </channel>
+  <channel id="Canal Musical">
+    <display-name>Canal Musical</display-name>
+  </channel>
+  <programme start="20260909060000 +0200" stop="20260910060000 +0200" channel="Canal Propio 1">
+    <title>Emisión Continua 24h</title>
+    <desc>Programación ininterrumpida con los mejores contenidos del canal.</desc>
+  </programme>
+  <programme start="20260910060000 +0200" stop="20260911060000 +0200" channel="Canal Propio 1">
+    <title>Emisión Continua 24h</title>
+    <desc>Programación ininterrumpida con los mejores contenidos del canal.</desc>
+  </programme>
+  <programme start="20260911060000 +0200" stop="20260912060000 +0200" channel="Canal Propio 1">
+    <title>Emisión Continua 24h</title>
+    <desc>Programación ininterrumpida con los mejores contenidos del canal.</desc>
+  </programme>
+  <programme start="20260909060000 +0200" stop="20260910060000 +0200" channel="Canal Musical">
+    <title>Grandes Éxitos Non-Stop</title>
+    <desc>Selección musical continua sin cortes comerciales.</desc>
+  </programme>
+  <programme start="20260910060000 +0200" stop="20260911060000 +0200" channel="Canal Musical">
+    <title>Grandes Éxitos Non-Stop</title>
+    <desc>Selección musical continua sin cortes comerciales.</desc>
+  </programme>
+  <programme start="20260911060000 +0200" stop="20260912060000 +0200" channel="Canal Musical">
+    <title>Grandes Éxitos Non-Stop</title>
+    <desc>Selección musical continua sin cortes comerciales.</desc>
+  </programme>
+</tv>
