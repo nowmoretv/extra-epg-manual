@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator_info_name="EPG Manual Generator">
-  <channel id="Canal Propio 1">
-    <display-name>Canal Propio 1</display-name>
+  <channel id="GuadaTV">
+    <display-name>GuadaTV</display-name>
   </channel>
   <channel id="Canal Musical">
     <display-name>Canal Musical</display-name>
   </channel>
-  <programme start="20260911060000 +0200" stop="20260912060000 +0200" channel="Canal Propio 1">
-    <title>Emisión Continua 24h</title>
-    <desc>Programación ininterrumpida con los mejores contenidos del canal.</desc>
+  <programme start="20260912060000 +0200" stop="20260913060000 +0200" channel="GuadaTV">
+    <title>Guadalajara</title>
+    <desc>GuadaTV es un canal de televisión que ofrece información de proximidad sobre la provincia de Guadalajara. Pertenece a Arriaca Televisión e inició sus emisiones el 11 de julio de 2017.</desc>
   </programme>
-  <programme start="20260912060000 +0200" stop="20260913060000 +0200" channel="Canal Propio 1">
-    <title>Emisión Continua 24h</title>
-    <desc>Programación ininterrumpida con los mejores contenidos del canal.</desc>
+  <programme start="20260913060000 +0200" stop="20260914060000 +0200" channel="GuadaTV">
+    <title>Guadalajara</title>
+    <desc>GuadaTV es un canal de televisión que ofrece información de proximidad sobre la provincia de Guadalajara. Pertenece a Arriaca Televisión e inició sus emisiones el 11 de julio de 2017.</desc>
   </programme>
-  <programme start="20260913060000 +0200" stop="20260914060000 +0200" channel="Canal Propio 1">
-    <title>Emisión Continua 24h</title>
-    <desc>Programación ininterrumpida con los mejores contenidos del canal.</desc>
-  </programme>
-  <programme start="20260911060000 +0200" stop="20260912060000 +0200" channel="Canal Musical">
-    <title>Grandes Éxitos Non-Stop</title>
-    <desc>Selección musical continua sin cortes comerciales.</desc>
+  <programme start="20260914060000 +0200" stop="20260915060000 +0200" channel="GuadaTV">
+    <title>Guadalajara</title>
+    <desc>GuadaTV es un canal de televisión que ofrece información de proximidad sobre la provincia de Guadalajara. Pertenece a Arriaca Televisión e inició sus emisiones el 11 de julio de 2017.</desc>
   </programme>
   <programme start="20260912060000 +0200" stop="20260913060000 +0200" channel="Canal Musical">
     <title>Grandes Éxitos Non-Stop</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
   <programme start="20260913060000 +0200" stop="20260914060000 +0200" channel="Canal Musical">
+    <title>Grandes Éxitos Non-Stop</title>
+    <desc>Selección musical continua sin cortes comerciales.</desc>
+  </programme>
+  <programme start="20260914060000 +0200" stop="20260915060000 +0200" channel="Canal Musical">
     <title>Grandes Éxitos Non-Stop</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
