@@ -1,79 +1,79 @@
 [
   {
-    "id": "GuadaTV",
-    "name": "GuadaTV",
+    "id": "GuadaTV Generica",
+    "name": "GuadaTV Generica",
     "title": "Guadalajara",
     "desc": "Información de proximidad sobre la provincia de Guadalajara. Pertenece a Arriaca Televisión e inició sus emisiones el 11 de julio de 2017."
   },
   {
-    "id": "Alcarria TV",
-    "name": "Alcarria TV",
+    "id": "Alcarria TV Generica",
+    "name": "Alcarria TV Generica",
     "title": "Guadalajara",
     "desc": "Información de proximidad sobre la provincia de Guadalajara. Inició sus emisiones el 8 de septiembre de 2014."
   },
   {
-    "id": "Imas TV",
-    "name": "Imas TV",
+    "id": "Imas TV Generica",
+    "name": "Imas TV Generica",
     "title": "Ciudad Real",
     "desc": "Información de proximidad sobre la provincia de Ciudad Real. Pertenece a Imás Media e inició sus emisiones el 2 de octubre de 2002."
   },
   {
-    "id": "Miguelturra TV",
-    "name": "Miguelturra TV",
+    "id": "Miguelturra TV Generica",
+    "name": "Miguelturra TV Generica",
     "title": "Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)",
     "desc": "Información local sobre la comarca formada por Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)."
   },
   {
-    "id": "Canal 2000",
-    "name": "Canal 2000",
+    "id": "Canal 2000 Generica",
+    "name": "Canal 2000 Generica",
     "title": "La Solana (Ciudad Real)",
     "desc": "Información local sobre La Solana (Ciudad Real). Inició sus emisiones el 28 de octubre de 1988."
   },
   {
-    "id": "Teletoledo",
-    "name": "Teletoledo",
+    "id": "Teletoledo Generica",
+    "name": "Teletoledo Generica",
     "title": "Toledo",
     "desc": "Información de proximidad sobre la provincia de Toledo y emisión de reportajes sobre Castilla-La Mancha. Pertenece a Grupo Cadena Media e inició sus emisiones en 1993."
   },
   {
-    "id": "Vision 6",
-    "name": "Vision 6",
+    "id": "Vision 6 Generica",
+    "name": "Vision 6 Generica",
     "title": "Albacete",
     "desc": "Información de proximidad sobre la provincia de Albacete. Pertenece a Corporación HMS y fue fundada en 1992."
   },
   {
-    "id": "Canal 4 Mancha Centro",
-    "name": "Canal 4 Mancha Centro",
+    "id": "Canal 4 Mancha Centro Generica",
+    "name": "Canal 4 Mancha Centro Generica",
     "title": "Villarrobledo (Albacete)",
     "desc": "Información local sobre Villarrobledo (Albacete). Pertenece a Grupo Media4 La Mancha e inició sus emisiones a principios de la década de los años 80."
   },
   {
-    "id": "TV Hellin",
-    "name": "TV Hellin",
+    "id": "TV Hellin Generica",
+    "name": "TV Hellin Generica",
     "title": "Hellín (Albacete)",
     "desc": "Información local sobre Hellín (Albacete). Inició sus emisiones, aparentemente, en 2006."
   },
   {
-    "id": "MiBit Almansa TV",
-    "name": "MiBit Almansa TV",
+    "id": "MiBit Almansa TV Generica",
+    "name": "MiBit Almansa TV Generica",
     "title": "Almansa (Albacete)",
     "desc": "Información local sobre Almansa (Albacete). Inició sus emisiones, aparentemente, en 2025."
   },
   {
-    "id": "7TV Andalucia",
-    "name": "7TV Andalucia",
+    "id": "7TV Andalucia Generica",
+    "name": "7TV Andalucia Generica",
     "title": "Andalucía",
     "desc": "Emisión regional de la red de televisiones locales de 7TV, pertenecientes a Publicaciones del Sur. Inició sus emisiones el 7 de noviembre de 2018, siendo una evolución natural de Ondaluz TV."
   },
   {
-    "id": "7TV Sevilla",
-    "name": "7TV Sevilla",
+    "id": "7TV Sevilla Generica",
+    "name": "7TV Sevilla Generica",
     "title": "Sevilla",
     "desc": "Información de proximidad sobre la provincia de Sevilla mediante desconexiones provinciales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "PTV Sevilla",
-    "name": "PTV Sevilla",
+    "id": "PTV Sevilla Generica",
+    "name": "PTV Sevilla Generica",
     "title": "Sevilla",
     "desc": "Información de proximidad sobre la provincia de Sevilla. Pertenece a PTV Telecom (Procono) e inició sus emisiones en pruebas el 27 de noviembre de 2020."
   },
