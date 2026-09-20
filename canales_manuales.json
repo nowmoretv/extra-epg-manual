@@ -1,385 +1,385 @@
 [
   {
-    "id": "GuadaTV Generica",
-    "name": "GuadaTV Generica",
+    "id": "GuadaTV Manual",
+    "name": "GuadaTV Manual",
     "title": "Guadalajara",
     "desc": "Información de proximidad sobre la provincia de Guadalajara. Pertenece a Arriaca Televisión e inició sus emisiones el 11 de julio de 2017."
   },
   {
-    "id": "Alcarria TV Generica",
-    "name": "Alcarria TV Generica",
+    "id": "Alcarria TV Manual",
+    "name": "Alcarria TV Manual",
     "title": "Guadalajara",
     "desc": "Información de proximidad sobre la provincia de Guadalajara. Inició sus emisiones el 8 de septiembre de 2014."
   },
   {
-    "id": "Imas TV Generica",
-    "name": "Imas TV Generica",
+    "id": "Imas TV Manual",
+    "name": "Imas TV Manual",
     "title": "Ciudad Real",
     "desc": "Información de proximidad sobre la provincia de Ciudad Real. Pertenece a Imás Media e inició sus emisiones el 2 de octubre de 2002."
   },
   {
-    "id": "Miguelturra TV Generica",
-    "name": "Miguelturra TV Generica",
+    "id": "Miguelturra TV Manual",
+    "name": "Miguelturra TV Manual",
     "title": "Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)",
     "desc": "Información local sobre la comarca formada por Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)."
   },
   {
-    "id": "Canal 2000 Generica",
-    "name": "Canal 2000 Generica",
+    "id": "Canal 2000 Manual",
+    "name": "Canal 2000 Manual",
     "title": "La Solana (Ciudad Real)",
     "desc": "Información local sobre La Solana (Ciudad Real). Inició sus emisiones el 28 de octubre de 1988."
   },
   {
-    "id": "Teletoledo Generica",
-    "name": "Teletoledo Generica",
+    "id": "Teletoledo Manual",
+    "name": "Teletoledo Manual",
     "title": "Toledo",
     "desc": "Información de proximidad sobre la provincia de Toledo y emisión de reportajes sobre Castilla-La Mancha. Pertenece a Grupo Cadena Media e inició sus emisiones en 1993."
   },
   {
-    "id": "Vision 6 Generica",
-    "name": "Vision 6 Generica",
+    "id": "Vision 6 Manual",
+    "name": "Vision 6 Manual",
     "title": "Albacete",
     "desc": "Información de proximidad sobre la provincia de Albacete. Pertenece a Corporación HMS y fue fundada en 1992."
   },
   {
-    "id": "Canal 4 Mancha Centro Generica",
-    "name": "Canal 4 Mancha Centro Generica",
+    "id": "Canal 4 Mancha Centro Manual",
+    "name": "Canal 4 Mancha Centro Manual",
     "title": "Villarrobledo (Albacete)",
     "desc": "Información local sobre Villarrobledo (Albacete). Pertenece a Grupo Media4 La Mancha e inició sus emisiones a principios de la década de los años 80."
   },
   {
-    "id": "TV Hellin Generica",
-    "name": "TV Hellin Generica",
+    "id": "TV Hellin Manual",
+    "name": "TV Hellin Manual",
     "title": "Hellín (Albacete)",
     "desc": "Información local sobre Hellín (Albacete). Inició sus emisiones, aparentemente, en 2006."
   },
   {
-    "id": "MiBit Almansa TV Generica",
-    "name": "MiBit Almansa TV Generica",
+    "id": "MiBit Almansa TV Manual",
+    "name": "MiBit Almansa TV Manual",
     "title": "Almansa (Albacete)",
     "desc": "Información local sobre Almansa (Albacete). Inició sus emisiones, aparentemente, en 2025."
   },
   {
-    "id": "7TV Andalucia Generica",
-    "name": "7TV Andalucia Generica",
+    "id": "7TV Andalucia Manual",
+    "name": "7TV Andalucia Manual",
     "title": "Andalucía",
     "desc": "Emisión regional de la red de televisiones locales de 7TV, pertenecientes a Publicaciones del Sur. Inició sus emisiones el 7 de noviembre de 2018, siendo una evolución natural de Ondaluz TV."
   },
   {
-    "id": "7TV Sevilla Generica",
-    "name": "7TV Sevilla Generica",
+    "id": "7TV Sevilla Manual",
+    "name": "7TV Sevilla Manual",
     "title": "Sevilla",
     "desc": "Información de proximidad sobre la provincia de Sevilla mediante desconexiones provinciales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "PTV Sevilla Generica",
-    "name": "PTV Sevilla Generica",
+    "id": "PTV Sevilla Manual",
+    "name": "PTV Sevilla Manual",
     "title": "Sevilla",
     "desc": "Información de proximidad sobre la provincia de Sevilla. Pertenece a PTV Telecom (Procono) e inició sus emisiones en pruebas el 27 de noviembre de 2020."
   },
   {
-    "id": "7TV Aljarafe",
-    "name": "7TV Aljarafe",
+    "id": "7TV Aljarafe Manual",
+    "name": "7TV Aljarafe Manual",
     "title": "Aljarafe (Sevilla)",
     "desc": "Información local sobre la comarca de Aljarafe (Sevilla). Se trata de la desconexión local de 7TV para una comarca formada por 13 municipios. Inició el 13 de abril de 2023."
   },
   {
-    "id": "Canal Malaga",
-    "name": "Canal Malaga",
+    "id": "Canal Malaga Manual",
+    "name": "Canal Malaga Manual",
     "title": "Málaga capital",
     "desc": "Información local sobre Málaga capital. Gestionado por el Ayuntamiento de Málaga, inició sus emisiones el 24 de diciembre de 2005, y hasta julio de 2017 era conocida como Onda Azul."
   },
   {
-    "id": "7TV Malaga",
-    "name": "7TV Malaga",
+    "id": "7TV Malaga Manual",
+    "name": "7TV Malaga Manual",
     "title": "Málaga",
     "desc": "Información de proximidad sobre la provincia de Málaga mediante desconexiones provinciales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "PTV Malaga",
-    "name": "PTV Malaga",
+    "id": "PTV Malaga Manual",
+    "name": "PTV Malaga Manual",
     "title": "Málaga",
     "desc": "Información de proximidad sobre la provincia de Málaga. Pertenece a PTV Telecom (Procono) e inició sus emisiones en pruebas el 8 de octubre de 1992."
   },
   {
-    "id": "Marbella TV",
-    "name": "Marbella TV",
+    "id": "Marbella TV Manual",
+    "name": "Marbella TV Manual",
     "title": "Marbella (Málaga)",
     "desc": "Información local sobre Marbella (Málaga). Gestionado por el Ayuntamiento de Marbella, inició sus emisiones el 7 de junio de 2010."
   },
   {
-    "id": "M95",
-    "name": "M95",
+    "id": "M95 Manual",
+    "name": "M95 Manual",
     "title": "Marbella (Málaga)",
     "desc": "Información local sobre Marbella (Málaga). Pertenece a M.95 Televisión e inició sus emisiones en 1995, aunque desde 1985 emitía de forma local a través de redes de cable."
   },
   {
-    "id": "Torremolinos TV",
-    "name": "Torremolinos TV",
+    "id": "Torremolinos TV Manual",
+    "name": "Torremolinos TV Manual",
     "title": "Torremolinos (Málaga)",
     "desc": "Información local sobre Torremolinos (Málaga). Gestionado por el Ayuntamiento de Torremolinos, inició sus emisiones a principios del año 2001. También comparte lazos operativos de emisión mancomunada junto al Ayuntamiento de Alhaurín de la Torre, bajo la marca de emisión Torrevisión"
   },
   {
-    "id": "Fuengirola TV",
-    "name": "Fuengirola TV",
+    "id": "Fuengirola TV Manual",
+    "name": "Fuengirola TV Manual",
     "title": "Fuengirola TV (Málaga)",
     "desc": "Información local sobre Fuengirola (Málaga). Gestionado por el Ayuntamiento de Fuengirola, inició sus emisiones previsiblemente a principios de la década 00."
   },
   {
-    "id": "Estepona TV",
-    "name": "Estepona TV",
+    "id": "Estepona TV Manual",
+    "name": "Estepona TV Manual",
     "title": "Estepona (Málaga)",
     "desc": "Información local sobre Estepona (Málaga). Gestionado por el Ayuntamiento de Estepona."
   },
   {
-    "id": "Mijas TV",
-    "name": "Mijas TV",
+    "id": "Mijas TV Manual",
+    "name": "Mijas TV Manual",
     "title": "Mijas (Málaga)",
     "desc": "Información local sobre Mijas (Málaga). Gestionado por el Ayuntamiento de Mijas, inició sus emisiones el 6 de junio de 1994."
   },
   {
-    "id": "Alhaurin TV",
-    "name": "Alhaurin TV",
+    "id": "Alhaurin TV Manual",
+    "name": "Alhaurin TV Manual",
     "title": "Alhaurín el Grande (Málaga)",
     "desc": "Información local sobre Alhaurín el Grande (Málaga). Gestionado por el Ayuntamiento de Alhaurín el Grande, inició sus emisiones en 2002."
   },
   {
-    "id": "Canal Coin",
-    "name": "Canal Coin",
+    "id": "Canal Coin Manual",
+    "name": "Canal Coin Manual",
     "title": "Coín (Málaga)",
     "desc": "Información local sobre Coín (Málaga). Gestionado por el Ayuntamiento de Coín."
   },
   {
-    "id": "TVM Cordoba",
-    "name": "TVM Cordoba",
+    "id": "TVM Cordoba Manual",
+    "name": "TVM Cordoba Manual",
     "title": "Córdoba capital",
     "desc": "Información local sobre Córdoba capital. Gestionado por el Ayuntamiento de Córdoba, inició sus emisiones a finales de la década de los 80."
   },
   {
-    "id": "7TV Cordoba",
-    "name": "7TV Cordoba",
+    "id": "7TV Cordoba Manual",
+    "name": "7TV Cordoba Manual",
     "title": "Córdoba",
     "desc": "Información de proximidad sobre la provincia de Córdoba mediante desconexiones provinciales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "PTV Cordoba",
-    "name": "PTV Cordoba",
+    "id": "PTV Cordoba Manual",
+    "name": "PTV Cordoba Manual",
     "title": "Córdoba",
     "desc": "Información de proximidad sobre la provincia de Córdoba. Pertenece a PTV Telecom (Procono) e inició sus emisiones por vídeo comunitario en 1985, pasando a emitir en abierto por TDT el 12 de abril de 2019."
   },
   {
-    "id": "7TV Jaen",
-    "name": "7TV Jaen",
+    "id": "7TV Jaen Manual",
+    "name": "7TV Jaen Manual",
     "title": "Jaén",
     "desc": "Información de proximidad sobre la provincia de Jaén mediante desconexiones provinciales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "Canal 45 Jaen",
-    "name": "Canal 45 Jaen",
+    "id": "Canal 45 Jaen Manual",
+    "name": "Canal 45 Jaen Manual",
     "title": "Jaén",
     "desc": "Información de proximidad sobre la provincia de Jaén. Pertenece a Antonio García Toribio e inició sus emisiones en 1993, conocida originalmente como Canal 45 Andújar, donde desde entonces lleva emitiendo."
   },
   {
-    "id": "Diez TV Ubeda",
-    "name": "Diez TV Ubeda",
+    "id": "Diez TV Ubeda Manual",
+    "name": "Diez TV Ubeda Manual",
     "title": "Úbeda (Jaén)",
     "desc": "Información local sobre Úbeda (Jaén). Pertenece a Multimedia Jiennense e inició sus emisiones el 10 de junio de 2010. Es la cadena principal del grupo."
   },
   {
-    "id": "Diez TV Andujar",
-    "name": "Diez TV Andujar",
+    "id": "Diez TV Andujar Manual",
+    "name": "Diez TV Andujar Manual",
     "title": "Andújar (Jaén)",
     "desc": "Información local sobre Andújar (Jaén). Pertenece a Multimedia Jiennense e inició sus emisionesen 2017."
   },
   {
-    "id": "Diez TV Las Villas",
-    "name": "Diez TV Las Villas",
+    "id": "Diez TV Las Villas Manual",
+    "name": "Diez TV Las Villas Manual",
     "title": "Las Villas (Jaén)",
     "desc": "Información local sobre la comarca de Las Villas (Jaén), cuyo centro administrativo es Villacarrillo. Pertenece a Multimedia Jiennense e inició sus emisiones recientemente."
   },
   {
-    "id": "7TV Linares",
-    "name": "7TV Linares",
+    "id": "7TV Linares Manual",
+    "name": "7TV Linares Manual",
     "title": "Linares (Jaén)",
     "desc": "Información de proximidad sobre Lineares (Jaén) mediante desconexiones locales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "PTV Linares",
-    "name": "PTV Linares",
+    "id": "PTV Linares Manual",
+    "name": "PTV Linares Manual",
     "title": "Linares (Jaén)",
     "desc": "Información local sobre Linares (Jaén). Pertenece a PTV Telecom (Procono) e inició sus emisiones a finales de la década de los 80 bajo el nombre de TV Linares."
   },
   {
-    "id": "9 La Loma",
-    "name": "9 La Loma",
+    "id": "9 La Loma Manual",
+    "name": "9 La Loma Manual",
     "title": "La Loma (Jaén)",
     "desc": "Información local sobre la comarca de La Loma (Jaén), cuya capital histórica es Úbeda. Pertenece a Canal Baeza y La Loma e inició sus emisiones previsiblemente a finales de la década de los 90, como Canal Baeza."
   },
   {
-    "id": "Interalmeria",
-    "name": "Interalmeria",
+    "id": "Interalmeria Manual",
+    "name": "Interalmeria Manual",
     "title": "Almería capital",
     "desc": "Información local sobre Almería capital. Gestionado por el Ayuntamiento de Almería, inició sus emisiones el 5 de enero de 2007."
   },
   {
-    "id": "7TV Almeria",
-    "name": "7TV Almeria",
+    "id": "7TV Almeria Manual",
+    "name": "7TV Almeria Manual",
     "title": "Almería",
     "desc": "Información de proximidad sobre la provincia de Almería mediante desconexiones provinciales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "PTV Almeria",
-    "name": "PTV Almeria",
+    "id": "PTV Almeria Manual",
+    "name": "PTV Almeria Manual",
     "title": "Almería",
     "desc": "Información de proximidad sobre la provincia de Almería. Pertenece a PTV Telecom (Procono) e inició sus emisiones en la primera semana de noviembre de 2022."
   },
   {
-    "id": "Almeria 24h TV",
-    "name": "Almeria 24h TV",
+    "id": "Almeria 24h TV Manual",
+    "name": "Almeria 24h TV Manual",
     "title": "Grandes Éxitos Non-Stop",
     "desc": "Información de proximidad sobre la provincia de Almería. Pertenece a Aprim Group e inició sus emisiones previsiblemente a mediados de 2022."
   },
   {
-    "id": "Almeria TV",
-    "name": "Almeria TV",
+    "id": "Almeria TV Manual",
+    "name": "Almeria TV Manual",
     "title": "Almería capital",
     "desc": "Información local sobre Almería capital."
   },
   {
-    "id": "7TV Cadiz",
-    "name": "7TV Cadiz",
+    "id": "7TV Cadiz Manual",
+    "name": "7TV Cadiz Manual",
     "title": "Cádiz",
     "desc": "Información de proximidad sobre la provincia de Cádiz mediante desconexiones provinciales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "7TV Jerez",
-    "name": "7TV Jerez",
+    "id": "7TV Jerez Manual",
+    "name": "7TV Jerez Manual",
     "title": "Jerez de la Frontera (Cádiz)",
     "desc": "Información de proximidad sobre Jerez de la Frontera (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "7TV Arcos",
-    "name": "7TV Arcos",
+    "id": "7TV Arcos Manual",
+    "name": "7TV Arcos Manual",
     "title": "Arcos de la Frontera (Cádiz)",
     "desc": "Información de proximidad sobre Arcos de la Frontera (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "Onda Algeciras",
-    "name": "Onda Algeciras",
+    "id": "Onda Algeciras Manual",
+    "name": "Onda Algeciras Manual",
     "title": "Algeciras (Cádiz)",
     "desc": "Información local sobre Algeciras (Cádiz). Gestionado por el Ayuntamiento de Algeciras, inició sus emisiones el 17 de octubre de 1996."
   },
   {
-    "id": "7TV Algeciras",
-    "name": "7TV Algeciras",
+    "id": "7TV Algeciras Manual",
+    "name": "7TV Algeciras Manual",
     "title": "Algeciras (Cádiz)",
     "desc": "Información de proximidad sobre Algeciras (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "Canal San Roque",
-    "name": "Canal San Roque",
+    "id": "Canal San Roque Manual",
+    "name": "Canal San Roque Manual",
     "title": "San Roque (Cádiz)",
     "desc": "Información local sobre San Roque (Cádiz). Gestionado por el Ayuntamiento de San Roque."
   },
   {
-    "id": "Canal Costa Noroeste",
-    "name": "Canal Costa Noroeste",
+    "id": "Canal Costa Noroeste Manual",
+    "name": "Canal Costa Noroeste Manual",
     "title": "Costa Noroeste de Cádiz",
     "desc": "Información comarcal de la Costa Noroeste sobre Sanlúcar, Chipiona, Rota y Trebujena (Cádiz)."
   },
   {
-    "id": "7TV San Fernando",
-    "name": "7TV San Fernando",
+    "id": "7TV San Fernando Manual",
+    "name": "7TV San Fernando Manual",
     "title": "San Fernando (Cádiz)",
     "desc": "Información de proximidad sobre San Fernando (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "SalTV",
-    "name": "SalTV",
+    "id": "SalTV Manual",
+    "name": "SalTV Manual",
     "title": "San Fernando (Cádiz)",
     "desc": "Información local sobre San Fernando (Cádiz). Inició sus emisiones previsiblemente en el año 2018."
   },
   {
-    "id": "7TV Rota",
-    "name": "7TV Rota",
+    "id": "7TV Rota Manual",
+    "name": "7TV Rota Manual",
     "title": "Rota (Cádiz)",
     "desc": "Información de proximidad sobre Rota (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "8 Sierra de Cadiz",
-    "name": "8 Sierra de Cadiz",
+    "id": "8 Sierra de Cadiz Manual",
+    "name": "8 Sierra de Cadiz Manual",
     "title": "Sierra de Cádiz",
     "desc": "Información comarcal de la Sierra de Cádiz."
   },
   {
-    "id": "8 Chiclana",
-    "name": "8 Chiclana",
+    "id": "8 Chiclana Manual",
+    "name": "8 Chiclana Manual",
     "title": "Chiclana de la Frontera (Cádiz)",
     "desc": "Información local sobre Chiclana de la Frontera (Cádiz)."
   },
   {
-    "id": "8 La Janda",
-    "name": "8 La Janda",
+    "id": "8 La Janda Manual",
+    "name": "8 La Janda Manual",
     "title": "La Janda de Cádiz",
     "desc": "Información comarcal sobre La Janda de Cádiz."
   },
   {
-    "id": "Tuya La Janda TV",
-    "name": "Tuya La Janda TV",
+    "id": "Tuya La Janda TV Manual",
+    "name": "Tuya La Janda TV Manual",
     "title": "San Fernando",
     "desc": "Información comarcal sobre La Janda de Cádiz. Pertenece a Guillermo Ortiz Chaves e inició sus emisiones previsiblemente en el año 2013."
   },
   {
-    "id": "Teleonuba",
-    "name": "Teleonuba",
+    "id": "Teleonuba Manual",
+    "name": "Teleonuba Manual",
     "title": "Huelva",
     "desc": "Información de proximidad sobre la provincia de Huelva. Pertenece a Grupo Azahara de Comunicaciones e inició sus emisiones previsiblemente en los años 90."
   },
   {
-    "id": "CanalCosta",
-    "name": "CanalCosta",
+    "id": "CanalCosta Manual",
+    "name": "CanalCosta Manual",
     "title": "Huelva",
     "desc": "Información de proximidad sobre la provincia de Huelva. Pertenece a Grupo Azahara de Comunicaciones (AKA Lepevisión) e inició sus emisiones en el año 1998."
   },
   {
-    "id": "Condavision",
-    "name": "Condavision",
+    "id": "Condavision Manual",
+    "name": "Condavision Manual",
     "title": "Condado de Huelva",
     "desc": "Información comarcal sobre El Condado de Huelva. Pertenece a Grupo Azahara de Comunicaciones e inició sus emisiones el 21 de febrero de 2011."
   },
   {
-    "id": "Cartaya TV",
-    "name": "Cartaya TV",
+    "id": "Cartaya TV Manual",
+    "name": "Cartaya TV Manual",
     "title": "Cartaya (Huelva)",
     "desc": "Información local sobre Cartaya (Huelva). Gestionado por el Ayuntamiento de Cartaya."
   },
   {
-    "id": "TG7 Granada",
-    "name": "TG7 Granada",
+    "id": "TG7 Granada Manual",
+    "name": "TG7 Granada Manual",
     "title": "Granada capital",
     "desc": "Información local sobre Granada capital. Gestionado por el Ayuntamiento de Granada, inició sus emisiones el 27 de septiembre de 2009."
   },
   {
-    "id": "7TV Granada",
-    "name": "7TV Granada",
+    "id": "7TV Granada Manual",
+    "name": "7TV Granada Manual",
     "title": "Granada",
     "desc": "Información de proximidad sobre la provincia de Granada mediante desconexiones provinciales de la red de televisiones locales de 7TV."
   },
   {
-    "id": "PTV Granada",
-    "name": "PTV Granada",
+    "id": "PTV Granada Manual",
+    "name": "PTV Granada Manual",
     "title": "Granada",
     "desc": "Información de proximidad sobre la provincia de Granada. Pertenece a PTV Telecom (Procono) e inició sus emisiones en septiembre de 2020."
   },
   {
-    "id": "TeleGranada",
-    "name": "TeleGranada",
+    "id": "TeleGranada Manual",
+    "name": "TeleGranada Manual",
     "title": "Granada capital",
     "desc": "Información local sobre Granada capital. Pertenece a ArteFM e inició sus emisiones previsiblemente en noviembre del 2024."
   },
   {
-    "id": "Telemotril",
-    "name": "Telemotril",
+    "id": "Telemotril Manual",
+    "name": "Telemotril Manual",
     "title": "Motril (Granada)",
     "desc": "Información local y comarcal sobre Motril (Granada) y la Costa Tropical Granadina. Gestionado por el Ayuntamiento de Motril."
   },
