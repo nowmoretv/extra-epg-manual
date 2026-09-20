@@ -216,81 +216,207 @@
     "desc": "Información local sobre la comarca de La Loma (Jaén), cuya capital histórica es Úbeda. Pertenece a Canal Baeza y La Loma e inició sus emisiones previsiblemente a finales de la década de los 90, como Canal Baeza."
   },
   {
+    "id": "Interalmeria",
+    "name": "Interalmeria",
+    "title": "Almería capital",
+    "desc": "Información local sobre Almería capital. Gestionado por el Ayuntamiento de Almería, inició sus emisiones el 5 de enero de 2007."
+  },
+  {
+    "id": "7TV Almeria",
+    "name": "7TV Almeria",
+    "title": "Almería",
+    "desc": "Información de proximidad sobre la provincia de Almería mediante desconexiones provinciales de la red de televisiones locales de 7TV."
+  },
+  {
+    "id": "PTV Almeria",
+    "name": "PTV Almeria",
+    "title": "Almería",
+    "desc": "Información de proximidad sobre la provincia de Almería. Pertenece a PTV Telecom (Procono) e inició sus emisiones en la primera semana de noviembre de 2022."
+  },
+  {
+    "id": "Almeria 24h TV",
+    "name": "Almeria 24h TV",
+    "title": "Grandes Éxitos Non-Stop",
+    "desc": "Información de proximidad sobre la provincia de Almería. Pertenece a Aprim Group e inició sus emisiones previsiblemente a mediados de 2022."
+  },
+  {
+    "id": "Almeria TV",
+    "name": "Almeria TV",
+    "title": "Almería capital",
+    "desc": "Información local sobre Almería capital."
+  },
+  {
+    "id": "7TV Cadiz",
+    "name": "7TV Cadiz",
+    "title": "Cádiz",
+    "desc": "Información de proximidad sobre la provincia de Cádiz mediante desconexiones provinciales de la red de televisiones locales de 7TV."
+  },
+  {
+    "id": "7TV Jerez",
+    "name": "7TV Jerez",
+    "title": "Jerez de la Frontera (Cádiz)",
+    "desc": "Información de proximidad sobre Jerez de la Frontera (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV."
+  },
+  {
+    "id": "7TV Arcos",
+    "name": "7TV Arcos",
+    "title": "Arcos de la Frontera (Cádiz)",
+    "desc": "Información de proximidad sobre Arcos de la Frontera (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV."
+  },
+  {
+    "id": "Onda Algeciras",
+    "name": "Onda Algeciras",
+    "title": "Algeciras (Cádiz)",
+    "desc": "Información local sobre Algeciras (Cádiz). Gestionado por el Ayuntamiento de Algeciras, inició sus emisiones el 17 de octubre de 1996."
+  },
+  {
+    "id": "7TV Algeciras",
+    "name": "7TV Algeciras",
+    "title": "Algeciras (Cádiz)",
+    "desc": "Información de proximidad sobre Algeciras (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV."
+  },
+  {
+    "id": "Canal San Roque",
+    "name": "Canal San Roque",
+    "title": "San Roque (Cádiz)",
+    "desc": "Información local sobre San Roque (Cádiz). Gestionado por el Ayuntamiento de San Roque."
+  },
+  {
+    "id": "Canal Costa Noroeste",
+    "name": "Canal Costa Noroeste",
+    "title": "Costa Noroeste de Cádiz",
+    "desc": "Información comarcal de la Costa Noroeste sobre Sanlúcar, Chipiona, Rota y Trebujena (Cádiz)."
+  },
+  {
+    "id": "7TV San Fernando",
+    "name": "7TV San Fernando",
+    "title": "San Fernando (Cádiz)",
+    "desc": "Información de proximidad sobre San Fernando (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV."
+  },
+  {
+    "id": "SalTV",
+    "name": "SalTV",
+    "title": "San Fernando (Cádiz)",
+    "desc": "Información local sobre San Fernando (Cádiz). Inició sus emisiones previsiblemente en el año 2018."
+  },
+  {
+    "id": "7TV Rota",
+    "name": "7TV Rota",
+    "title": "Rota (Cádiz)",
+    "desc": "Información de proximidad sobre Rota (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV."
+  },
+  {
+    "id": "8 Sierra de Cadiz",
+    "name": "8 Sierra de Cadiz",
+    "title": "Sierra de Cádiz",
+    "desc": "Información comarcal de la Sierra de Cádiz."
+  },
+  {
+    "id": "8 Chiclana",
+    "name": "8 Chiclana",
+    "title": "Chiclana de la Frontera (Cádiz)",
+    "desc": "Información local sobre Chiclana de la Frontera (Cádiz)."
+  },
+  {
+    "id": "8 La Janda",
+    "name": "8 La Janda",
+    "title": "La Janda de Cádiz",
+    "desc": "Información comarcal sobre La Janda de Cádiz."
+  },
+  {
+    "id": "Tuya La Janda TV",
+    "name": "Tuya La Janda TV",
+    "title": "San Fernando",
+    "desc": "Información comarcal sobre La Janda de Cádiz. Pertenece a Guillermo Ortiz Chaves e inició sus emisiones previsiblemente en el año 2013."
+  },
+  {
+    "id": "Teleonuba",
+    "name": "Teleonuba",
+    "title": "Huelva",
+    "desc": "Información de proximidad sobre la provincia de Huelva. Pertenece a Grupo Azahara de Comunicaciones e inició sus emisiones previsiblemente en los años 90."
+  },
+  {
+    "id": "CanalCosta",
+    "name": "CanalCosta",
+    "title": "Huelva",
+    "desc": "Información de proximidad sobre la provincia de Huelva. Pertenece a Grupo Azahara de Comunicaciones (AKA Lepevisión) e inició sus emisiones en el año 1998."
+  },
+  {
+    "id": "Condavision",
+    "name": "Condavision",
+    "title": "Condado de Huelva",
+    "desc": "Información comarcal sobre El Condado de Huelva. Pertenece a Grupo Azahara de Comunicaciones e inició sus emisiones el 21 de febrero de 2011."
+  },
+  {
+    "id": "Cartaya TV",
+    "name": "Cartaya TV",
+    "title": "Cartaya (Huelva)",
+    "desc": "Información local sobre Cartaya (Huelva). Gestionado por el Ayuntamiento de Cartaya."
+  },
+  {
+    "id": "TG7 Granada",
+    "name": "TG7 Granada",
+    "title": "Granada capital",
+    "desc": "Información local sobre Granada capital. Gestionado por el Ayuntamiento de Granada, inició sus emisiones el 27 de septiembre de 2009."
+  },
+  {
+    "id": "7TV Granada",
+    "name": "7TV Granada",
+    "title": "Granada",
+    "desc": "Información de proximidad sobre la provincia de Granada mediante desconexiones provinciales de la red de televisiones locales de 7TV."
+  },
+  {
+    "id": "PTV Granada",
+    "name": "PTV Granada",
+    "title": "Granada",
+    "desc": "Información de proximidad sobre la provincia de Granada. Pertenece a PTV Telecom (Procono) e inició sus emisiones en septiembre de 2020."
+  },
+  {
+    "id": "TeleGranada",
+    "name": "TeleGranada",
+    "title": "Granada capital",
+    "desc": "Información local sobre Granada capital. Pertenece a ArteFM e inició sus emisiones previsiblemente en noviembre del 2024."
+  },
+  {
+    "id": "Telemotril",
+    "name": "Telemotril",
+    "title": "Motril (Granada)",
+    "desc": "Información local y comarcal sobre Motril (Granada) y la Costa Tropical Granadina. Gestionado por el Ayuntamiento de Motril."
+  },
+  {
     "id": "Canal Musical",
     "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
+    "title": "San Fernando",
     "desc": "Selección musical continua sin cortes comerciales."
   },
   {
     "id": "Canal Musical",
     "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
+    "title": "San Fernando",
     "desc": "Selección musical continua sin cortes comerciales."
   },
   {
     "id": "Canal Musical",
     "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
+    "title": "San Fernando",
     "desc": "Selección musical continua sin cortes comerciales."
   },
   {
     "id": "Canal Musical",
     "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
+    "title": "San Fernando",
     "desc": "Selección musical continua sin cortes comerciales."
   },
   {
     "id": "Canal Musical",
     "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
+    "title": "San Fernando",
     "desc": "Selección musical continua sin cortes comerciales."
   },
   {
     "id": "Canal Musical",
     "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
-    "desc": "Selección musical continua sin cortes comerciales."
-  },
-  {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
-    "desc": "Selección musical continua sin cortes comerciales."
-  },
-  {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
-    "desc": "Selección musical continua sin cortes comerciales."
-  },
-  {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
-    "desc": "Selección musical continua sin cortes comerciales."
-  },
-  {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
-    "desc": "Selección musical continua sin cortes comerciales."
-  },
-  {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
-    "desc": "Selección musical continua sin cortes comerciales."
-  },
-  {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
-    "desc": "Selección musical continua sin cortes comerciales."
-  },
-  {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "Grandes Éxitos Non-Stop",
+    "title": "San Fernando",
     "desc": "Selección musical continua sin cortes comerciales."
   },
   {
