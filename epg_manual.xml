@@ -1,196 +1,196 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator_info_name="EPG Manual Generator">
-  <channel id="GuadaTV Generica">
-    <display-name>GuadaTV Generica</display-name>
+  <channel id="GuadaTV Manual">
+    <display-name>GuadaTV Manual</display-name>
   </channel>
-  <channel id="Alcarria TV Generica">
-    <display-name>Alcarria TV Generica</display-name>
+  <channel id="Alcarria TV Manual">
+    <display-name>Alcarria TV Manual</display-name>
   </channel>
-  <channel id="Imas TV Generica">
-    <display-name>Imas TV Generica</display-name>
+  <channel id="Imas TV Manual">
+    <display-name>Imas TV Manual</display-name>
   </channel>
-  <channel id="Miguelturra TV Generica">
-    <display-name>Miguelturra TV Generica</display-name>
+  <channel id="Miguelturra TV Manual">
+    <display-name>Miguelturra TV Manual</display-name>
   </channel>
-  <channel id="Canal 2000 Generica">
-    <display-name>Canal 2000 Generica</display-name>
+  <channel id="Canal 2000 Manual">
+    <display-name>Canal 2000 Manual</display-name>
   </channel>
-  <channel id="Teletoledo Generica">
-    <display-name>Teletoledo Generica</display-name>
+  <channel id="Teletoledo Manual">
+    <display-name>Teletoledo Manual</display-name>
   </channel>
-  <channel id="Vision 6 Generica">
-    <display-name>Vision 6 Generica</display-name>
+  <channel id="Vision 6 Manual">
+    <display-name>Vision 6 Manual</display-name>
   </channel>
-  <channel id="Canal 4 Mancha Centro Generica">
-    <display-name>Canal 4 Mancha Centro Generica</display-name>
+  <channel id="Canal 4 Mancha Centro Manual">
+    <display-name>Canal 4 Mancha Centro Manual</display-name>
   </channel>
-  <channel id="TV Hellin Generica">
-    <display-name>TV Hellin Generica</display-name>
+  <channel id="TV Hellin Manual">
+    <display-name>TV Hellin Manual</display-name>
   </channel>
-  <channel id="MiBit Almansa TV Generica">
-    <display-name>MiBit Almansa TV Generica</display-name>
+  <channel id="MiBit Almansa TV Manual">
+    <display-name>MiBit Almansa TV Manual</display-name>
   </channel>
-  <channel id="7TV Andalucia Generica">
-    <display-name>7TV Andalucia Generica</display-name>
+  <channel id="7TV Andalucia Manual">
+    <display-name>7TV Andalucia Manual</display-name>
   </channel>
-  <channel id="7TV Sevilla Generica">
-    <display-name>7TV Sevilla Generica</display-name>
+  <channel id="7TV Sevilla Manual">
+    <display-name>7TV Sevilla Manual</display-name>
   </channel>
-  <channel id="PTV Sevilla Generica">
-    <display-name>PTV Sevilla Generica</display-name>
+  <channel id="PTV Sevilla Manual">
+    <display-name>PTV Sevilla Manual</display-name>
   </channel>
-  <channel id="7TV Aljarafe">
-    <display-name>7TV Aljarafe</display-name>
+  <channel id="7TV Aljarafe Manual">
+    <display-name>7TV Aljarafe Manual</display-name>
   </channel>
-  <channel id="Canal Malaga">
-    <display-name>Canal Malaga</display-name>
+  <channel id="Canal Malaga Manual">
+    <display-name>Canal Malaga Manual</display-name>
   </channel>
-  <channel id="7TV Malaga">
-    <display-name>7TV Malaga</display-name>
+  <channel id="7TV Malaga Manual">
+    <display-name>7TV Malaga Manual</display-name>
   </channel>
-  <channel id="PTV Malaga">
-    <display-name>PTV Malaga</display-name>
+  <channel id="PTV Malaga Manual">
+    <display-name>PTV Malaga Manual</display-name>
   </channel>
-  <channel id="Marbella TV">
-    <display-name>Marbella TV</display-name>
+  <channel id="Marbella TV Manual">
+    <display-name>Marbella TV Manual</display-name>
   </channel>
-  <channel id="M95">
-    <display-name>M95</display-name>
+  <channel id="M95 Manual">
+    <display-name>M95 Manual</display-name>
   </channel>
-  <channel id="Torremolinos TV">
-    <display-name>Torremolinos TV</display-name>
+  <channel id="Torremolinos TV Manual">
+    <display-name>Torremolinos TV Manual</display-name>
   </channel>
-  <channel id="Fuengirola TV">
-    <display-name>Fuengirola TV</display-name>
+  <channel id="Fuengirola TV Manual">
+    <display-name>Fuengirola TV Manual</display-name>
   </channel>
-  <channel id="Estepona TV">
-    <display-name>Estepona TV</display-name>
+  <channel id="Estepona TV Manual">
+    <display-name>Estepona TV Manual</display-name>
   </channel>
-  <channel id="Mijas TV">
-    <display-name>Mijas TV</display-name>
+  <channel id="Mijas TV Manual">
+    <display-name>Mijas TV Manual</display-name>
   </channel>
-  <channel id="Alhaurin TV">
-    <display-name>Alhaurin TV</display-name>
+  <channel id="Alhaurin TV Manual">
+    <display-name>Alhaurin TV Manual</display-name>
   </channel>
-  <channel id="Canal Coin">
-    <display-name>Canal Coin</display-name>
+  <channel id="Canal Coin Manual">
+    <display-name>Canal Coin Manual</display-name>
   </channel>
-  <channel id="TVM Cordoba">
-    <display-name>TVM Cordoba</display-name>
+  <channel id="TVM Cordoba Manual">
+    <display-name>TVM Cordoba Manual</display-name>
   </channel>
-  <channel id="7TV Cordoba">
-    <display-name>7TV Cordoba</display-name>
+  <channel id="7TV Cordoba Manual">
+    <display-name>7TV Cordoba Manual</display-name>
   </channel>
-  <channel id="PTV Cordoba">
-    <display-name>PTV Cordoba</display-name>
+  <channel id="PTV Cordoba Manual">
+    <display-name>PTV Cordoba Manual</display-name>
   </channel>
-  <channel id="7TV Jaen">
-    <display-name>7TV Jaen</display-name>
+  <channel id="7TV Jaen Manual">
+    <display-name>7TV Jaen Manual</display-name>
   </channel>
-  <channel id="Canal 45 Jaen">
-    <display-name>Canal 45 Jaen</display-name>
+  <channel id="Canal 45 Jaen Manual">
+    <display-name>Canal 45 Jaen Manual</display-name>
   </channel>
-  <channel id="Diez TV Ubeda">
-    <display-name>Diez TV Ubeda</display-name>
+  <channel id="Diez TV Ubeda Manual">
+    <display-name>Diez TV Ubeda Manual</display-name>
   </channel>
-  <channel id="Diez TV Andujar">
-    <display-name>Diez TV Andujar</display-name>
+  <channel id="Diez TV Andujar Manual">
+    <display-name>Diez TV Andujar Manual</display-name>
   </channel>
-  <channel id="Diez TV Las Villas">
-    <display-name>Diez TV Las Villas</display-name>
+  <channel id="Diez TV Las Villas Manual">
+    <display-name>Diez TV Las Villas Manual</display-name>
   </channel>
-  <channel id="7TV Linares">
-    <display-name>7TV Linares</display-name>
+  <channel id="7TV Linares Manual">
+    <display-name>7TV Linares Manual</display-name>
   </channel>
-  <channel id="PTV Linares">
-    <display-name>PTV Linares</display-name>
+  <channel id="PTV Linares Manual">
+    <display-name>PTV Linares Manual</display-name>
   </channel>
-  <channel id="9 La Loma">
-    <display-name>9 La Loma</display-name>
+  <channel id="9 La Loma Manual">
+    <display-name>9 La Loma Manual</display-name>
   </channel>
-  <channel id="Interalmeria">
-    <display-name>Interalmeria</display-name>
+  <channel id="Interalmeria Manual">
+    <display-name>Interalmeria Manual</display-name>
   </channel>
-  <channel id="7TV Almeria">
-    <display-name>7TV Almeria</display-name>
+  <channel id="7TV Almeria Manual">
+    <display-name>7TV Almeria Manual</display-name>
   </channel>
-  <channel id="PTV Almeria">
-    <display-name>PTV Almeria</display-name>
+  <channel id="PTV Almeria Manual">
+    <display-name>PTV Almeria Manual</display-name>
   </channel>
-  <channel id="Almeria 24h TV">
-    <display-name>Almeria 24h TV</display-name>
+  <channel id="Almeria 24h TV Manual">
+    <display-name>Almeria 24h TV Manual</display-name>
   </channel>
-  <channel id="Almeria TV">
-    <display-name>Almeria TV</display-name>
+  <channel id="Almeria TV Manual">
+    <display-name>Almeria TV Manual</display-name>
   </channel>
-  <channel id="7TV Cadiz">
-    <display-name>7TV Cadiz</display-name>
+  <channel id="7TV Cadiz Manual">
+    <display-name>7TV Cadiz Manual</display-name>
   </channel>
-  <channel id="7TV Jerez">
-    <display-name>7TV Jerez</display-name>
+  <channel id="7TV Jerez Manual">
+    <display-name>7TV Jerez Manual</display-name>
   </channel>
-  <channel id="7TV Arcos">
-    <display-name>7TV Arcos</display-name>
+  <channel id="7TV Arcos Manual">
+    <display-name>7TV Arcos Manual</display-name>
   </channel>
-  <channel id="Onda Algeciras">
-    <display-name>Onda Algeciras</display-name>
+  <channel id="Onda Algeciras Manual">
+    <display-name>Onda Algeciras Manual</display-name>
   </channel>
-  <channel id="7TV Algeciras">
-    <display-name>7TV Algeciras</display-name>
+  <channel id="7TV Algeciras Manual">
+    <display-name>7TV Algeciras Manual</display-name>
   </channel>
-  <channel id="Canal San Roque">
-    <display-name>Canal San Roque</display-name>
+  <channel id="Canal San Roque Manual">
+    <display-name>Canal San Roque Manual</display-name>
   </channel>
-  <channel id="Canal Costa Noroeste">
-    <display-name>Canal Costa Noroeste</display-name>
+  <channel id="Canal Costa Noroeste Manual">
+    <display-name>Canal Costa Noroeste Manual</display-name>
   </channel>
-  <channel id="7TV San Fernando">
-    <display-name>7TV San Fernando</display-name>
+  <channel id="7TV San Fernando Manual">
+    <display-name>7TV San Fernando Manual</display-name>
   </channel>
-  <channel id="SalTV">
-    <display-name>SalTV</display-name>
+  <channel id="SalTV Manual">
+    <display-name>SalTV Manual</display-name>
   </channel>
-  <channel id="7TV Rota">
-    <display-name>7TV Rota</display-name>
+  <channel id="7TV Rota Manual">
+    <display-name>7TV Rota Manual</display-name>
   </channel>
-  <channel id="8 Sierra de Cadiz">
-    <display-name>8 Sierra de Cadiz</display-name>
+  <channel id="8 Sierra de Cadiz Manual">
+    <display-name>8 Sierra de Cadiz Manual</display-name>
   </channel>
-  <channel id="8 Chiclana">
-    <display-name>8 Chiclana</display-name>
+  <channel id="8 Chiclana Manual">
+    <display-name>8 Chiclana Manual</display-name>
   </channel>
-  <channel id="8 La Janda">
-    <display-name>8 La Janda</display-name>
+  <channel id="8 La Janda Manual">
+    <display-name>8 La Janda Manual</display-name>
   </channel>
-  <channel id="Tuya La Janda TV">
-    <display-name>Tuya La Janda TV</display-name>
+  <channel id="Tuya La Janda TV Manual">
+    <display-name>Tuya La Janda TV Manual</display-name>
   </channel>
-  <channel id="Teleonuba">
-    <display-name>Teleonuba</display-name>
+  <channel id="Teleonuba Manual">
+    <display-name>Teleonuba Manual</display-name>
   </channel>
-  <channel id="CanalCosta">
-    <display-name>CanalCosta</display-name>
+  <channel id="CanalCosta Manual">
+    <display-name>CanalCosta Manual</display-name>
   </channel>
-  <channel id="Condavision">
-    <display-name>Condavision</display-name>
+  <channel id="Condavision Manual">
+    <display-name>Condavision Manual</display-name>
   </channel>
-  <channel id="Cartaya TV">
-    <display-name>Cartaya TV</display-name>
+  <channel id="Cartaya TV Manual">
+    <display-name>Cartaya TV Manual</display-name>
   </channel>
-  <channel id="TG7 Granada">
-    <display-name>TG7 Granada</display-name>
+  <channel id="TG7 Granada Manual">
+    <display-name>TG7 Granada Manual</display-name>
   </channel>
-  <channel id="7TV Granada">
-    <display-name>7TV Granada</display-name>
+  <channel id="7TV Granada Manual">
+    <display-name>7TV Granada Manual</display-name>
   </channel>
-  <channel id="PTV Granada">
-    <display-name>PTV Granada</display-name>
+  <channel id="PTV Granada Manual">
+    <display-name>PTV Granada Manual</display-name>
   </channel>
-  <channel id="TeleGranada">
-    <display-name>TeleGranada</display-name>
+  <channel id="TeleGranada Manual">
+    <display-name>TeleGranada Manual</display-name>
   </channel>
-  <channel id="Telemotril">
-    <display-name>Telemotril</display-name>
+  <channel id="Telemotril Manual">
+    <display-name>Telemotril Manual</display-name>
   </channel>
   <channel id="Canal Musical">
     <display-name>Canal Musical</display-name>
@@ -213,775 +213,783 @@
   <channel id="Canal Musical">
     <display-name>Canal Musical</display-name>
   </channel>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="GuadaTV Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="GuadaTV Manual">
     <title>Guadalajara</title>
     <desc>Información de proximidad sobre la provincia de Guadalajara. Pertenece a Arriaca Televisión e inició sus emisiones el 11 de julio de 2017.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="GuadaTV Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="GuadaTV Manual">
     <title>Guadalajara</title>
     <desc>Información de proximidad sobre la provincia de Guadalajara. Pertenece a Arriaca Televisión e inició sus emisiones el 11 de julio de 2017.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="GuadaTV Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="GuadaTV Manual">
     <title>Guadalajara</title>
     <desc>Información de proximidad sobre la provincia de Guadalajara. Pertenece a Arriaca Televisión e inició sus emisiones el 11 de julio de 2017.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Alcarria TV Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Alcarria TV Manual">
     <title>Guadalajara</title>
     <desc>Información de proximidad sobre la provincia de Guadalajara. Inició sus emisiones el 8 de septiembre de 2014.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Alcarria TV Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Alcarria TV Manual">
     <title>Guadalajara</title>
     <desc>Información de proximidad sobre la provincia de Guadalajara. Inició sus emisiones el 8 de septiembre de 2014.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Alcarria TV Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Alcarria TV Manual">
     <title>Guadalajara</title>
     <desc>Información de proximidad sobre la provincia de Guadalajara. Inició sus emisiones el 8 de septiembre de 2014.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Imas TV Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Imas TV Manual">
     <title>Ciudad Real</title>
     <desc>Información de proximidad sobre la provincia de Ciudad Real. Pertenece a Imás Media e inició sus emisiones el 2 de octubre de 2002.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Imas TV Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Imas TV Manual">
     <title>Ciudad Real</title>
     <desc>Información de proximidad sobre la provincia de Ciudad Real. Pertenece a Imás Media e inició sus emisiones el 2 de octubre de 2002.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Imas TV Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Imas TV Manual">
     <title>Ciudad Real</title>
     <desc>Información de proximidad sobre la provincia de Ciudad Real. Pertenece a Imás Media e inició sus emisiones el 2 de octubre de 2002.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Miguelturra TV Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Miguelturra TV Manual">
     <title>Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)</title>
     <desc>Información local sobre la comarca formada por Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real).</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Miguelturra TV Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Miguelturra TV Manual">
     <title>Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)</title>
     <desc>Información local sobre la comarca formada por Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real).</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Miguelturra TV Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Miguelturra TV Manual">
     <title>Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real)</title>
     <desc>Información local sobre la comarca formada por Miguelturra, Bolaños de Calatrava y Pozuelo de Calatrava (Ciudad Real).</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal 2000 Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal 2000 Manual">
     <title>La Solana (Ciudad Real)</title>
     <desc>Información local sobre La Solana (Ciudad Real). Inició sus emisiones el 28 de octubre de 1988.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal 2000 Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal 2000 Manual">
     <title>La Solana (Ciudad Real)</title>
     <desc>Información local sobre La Solana (Ciudad Real). Inició sus emisiones el 28 de octubre de 1988.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal 2000 Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal 2000 Manual">
     <title>La Solana (Ciudad Real)</title>
     <desc>Información local sobre La Solana (Ciudad Real). Inició sus emisiones el 28 de octubre de 1988.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Teletoledo Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Teletoledo Manual">
     <title>Toledo</title>
     <desc>Información de proximidad sobre la provincia de Toledo y emisión de reportajes sobre Castilla-La Mancha. Pertenece a Grupo Cadena Media e inició sus emisiones en 1993.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Teletoledo Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Teletoledo Manual">
     <title>Toledo</title>
     <desc>Información de proximidad sobre la provincia de Toledo y emisión de reportajes sobre Castilla-La Mancha. Pertenece a Grupo Cadena Media e inició sus emisiones en 1993.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Teletoledo Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Teletoledo Manual">
     <title>Toledo</title>
     <desc>Información de proximidad sobre la provincia de Toledo y emisión de reportajes sobre Castilla-La Mancha. Pertenece a Grupo Cadena Media e inició sus emisiones en 1993.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Vision 6 Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Vision 6 Manual">
     <title>Albacete</title>
     <desc>Información de proximidad sobre la provincia de Albacete. Pertenece a Corporación HMS y fue fundada en 1992.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Vision 6 Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Vision 6 Manual">
     <title>Albacete</title>
     <desc>Información de proximidad sobre la provincia de Albacete. Pertenece a Corporación HMS y fue fundada en 1992.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Vision 6 Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Vision 6 Manual">
     <title>Albacete</title>
     <desc>Información de proximidad sobre la provincia de Albacete. Pertenece a Corporación HMS y fue fundada en 1992.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal 4 Mancha Centro Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal 4 Mancha Centro Manual">
     <title>Villarrobledo (Albacete)</title>
     <desc>Información local sobre Villarrobledo (Albacete). Pertenece a Grupo Media4 La Mancha e inició sus emisiones a principios de la década de los años 80.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal 4 Mancha Centro Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal 4 Mancha Centro Manual">
     <title>Villarrobledo (Albacete)</title>
     <desc>Información local sobre Villarrobledo (Albacete). Pertenece a Grupo Media4 La Mancha e inició sus emisiones a principios de la década de los años 80.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal 4 Mancha Centro Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal 4 Mancha Centro Manual">
     <title>Villarrobledo (Albacete)</title>
     <desc>Información local sobre Villarrobledo (Albacete). Pertenece a Grupo Media4 La Mancha e inició sus emisiones a principios de la década de los años 80.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="TV Hellin Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="TV Hellin Manual">
     <title>Hellín (Albacete)</title>
     <desc>Información local sobre Hellín (Albacete). Inició sus emisiones, aparentemente, en 2006.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="TV Hellin Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="TV Hellin Manual">
     <title>Hellín (Albacete)</title>
     <desc>Información local sobre Hellín (Albacete). Inició sus emisiones, aparentemente, en 2006.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="TV Hellin Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="TV Hellin Manual">
     <title>Hellín (Albacete)</title>
     <desc>Información local sobre Hellín (Albacete). Inició sus emisiones, aparentemente, en 2006.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="MiBit Almansa TV Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="MiBit Almansa TV Manual">
     <title>Almansa (Albacete)</title>
     <desc>Información local sobre Almansa (Albacete). Inició sus emisiones, aparentemente, en 2025.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="MiBit Almansa TV Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="MiBit Almansa TV Manual">
     <title>Almansa (Albacete)</title>
     <desc>Información local sobre Almansa (Albacete). Inició sus emisiones, aparentemente, en 2025.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="MiBit Almansa TV Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="MiBit Almansa TV Manual">
     <title>Almansa (Albacete)</title>
     <desc>Información local sobre Almansa (Albacete). Inició sus emisiones, aparentemente, en 2025.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Andalucia Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Andalucia Manual">
     <title>Andalucía</title>
     <desc>Emisión regional de la red de televisiones locales de 7TV, pertenecientes a Publicaciones del Sur. Inició sus emisiones el 7 de noviembre de 2018, siendo una evolución natural de Ondaluz TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Andalucia Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Andalucia Manual">
     <title>Andalucía</title>
     <desc>Emisión regional de la red de televisiones locales de 7TV, pertenecientes a Publicaciones del Sur. Inició sus emisiones el 7 de noviembre de 2018, siendo una evolución natural de Ondaluz TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Andalucia Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Andalucia Manual">
     <title>Andalucía</title>
     <desc>Emisión regional de la red de televisiones locales de 7TV, pertenecientes a Publicaciones del Sur. Inició sus emisiones el 7 de noviembre de 2018, siendo una evolución natural de Ondaluz TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Sevilla Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Sevilla Manual">
     <title>Sevilla</title>
     <desc>Información de proximidad sobre la provincia de Sevilla mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Sevilla Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Sevilla Manual">
     <title>Sevilla</title>
     <desc>Información de proximidad sobre la provincia de Sevilla mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Sevilla Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Sevilla Manual">
     <title>Sevilla</title>
     <desc>Información de proximidad sobre la provincia de Sevilla mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="PTV Sevilla Generica">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Sevilla Manual">
     <title>Sevilla</title>
     <desc>Información de proximidad sobre la provincia de Sevilla. Pertenece a PTV Telecom (Procono) e inició sus emisiones en pruebas el 27 de noviembre de 2020.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Sevilla Generica">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Sevilla Manual">
     <title>Sevilla</title>
     <desc>Información de proximidad sobre la provincia de Sevilla. Pertenece a PTV Telecom (Procono) e inició sus emisiones en pruebas el 27 de noviembre de 2020.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Sevilla Generica">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Sevilla Manual">
     <title>Sevilla</title>
     <desc>Información de proximidad sobre la provincia de Sevilla. Pertenece a PTV Telecom (Procono) e inició sus emisiones en pruebas el 27 de noviembre de 2020.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Aljarafe">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Aljarafe Manual">
     <title>Aljarafe (Sevilla)</title>
     <desc>Información local sobre la comarca de Aljarafe (Sevilla). Se trata de la desconexión local de 7TV para una comarca formada por 13 municipios. Inició el 13 de abril de 2023.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Aljarafe">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Aljarafe Manual">
     <title>Aljarafe (Sevilla)</title>
     <desc>Información local sobre la comarca de Aljarafe (Sevilla). Se trata de la desconexión local de 7TV para una comarca formada por 13 municipios. Inició el 13 de abril de 2023.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Aljarafe">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Aljarafe Manual">
     <title>Aljarafe (Sevilla)</title>
     <desc>Información local sobre la comarca de Aljarafe (Sevilla). Se trata de la desconexión local de 7TV para una comarca formada por 13 municipios. Inició el 13 de abril de 2023.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal Malaga">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal Malaga Manual">
     <title>Málaga capital</title>
     <desc>Información local sobre Málaga capital. Gestionado por el Ayuntamiento de Málaga, inició sus emisiones el 24 de diciembre de 2005, y hasta julio de 2017 era conocida como Onda Azul.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal Malaga">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal Malaga Manual">
     <title>Málaga capital</title>
     <desc>Información local sobre Málaga capital. Gestionado por el Ayuntamiento de Málaga, inició sus emisiones el 24 de diciembre de 2005, y hasta julio de 2017 era conocida como Onda Azul.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal Malaga">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Malaga Manual">
     <title>Málaga capital</title>
     <desc>Información local sobre Málaga capital. Gestionado por el Ayuntamiento de Málaga, inició sus emisiones el 24 de diciembre de 2005, y hasta julio de 2017 era conocida como Onda Azul.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Malaga">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Malaga Manual">
     <title>Málaga</title>
     <desc>Información de proximidad sobre la provincia de Málaga mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Malaga">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Malaga Manual">
     <title>Málaga</title>
     <desc>Información de proximidad sobre la provincia de Málaga mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Malaga">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Malaga Manual">
     <title>Málaga</title>
     <desc>Información de proximidad sobre la provincia de Málaga mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="PTV Malaga">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Malaga Manual">
     <title>Málaga</title>
     <desc>Información de proximidad sobre la provincia de Málaga. Pertenece a PTV Telecom (Procono) e inició sus emisiones en pruebas el 8 de octubre de 1992.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Malaga">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Malaga Manual">
     <title>Málaga</title>
     <desc>Información de proximidad sobre la provincia de Málaga. Pertenece a PTV Telecom (Procono) e inició sus emisiones en pruebas el 8 de octubre de 1992.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Malaga">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Malaga Manual">
     <title>Málaga</title>
     <desc>Información de proximidad sobre la provincia de Málaga. Pertenece a PTV Telecom (Procono) e inició sus emisiones en pruebas el 8 de octubre de 1992.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Marbella TV">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Marbella TV Manual">
     <title>Marbella (Málaga)</title>
     <desc>Información local sobre Marbella (Málaga). Gestionado por el Ayuntamiento de Marbella, inició sus emisiones el 7 de junio de 2010.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Marbella TV">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Marbella TV Manual">
     <title>Marbella (Málaga)</title>
     <desc>Información local sobre Marbella (Málaga). Gestionado por el Ayuntamiento de Marbella, inició sus emisiones el 7 de junio de 2010.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Marbella TV">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Marbella TV Manual">
     <title>Marbella (Málaga)</title>
     <desc>Información local sobre Marbella (Málaga). Gestionado por el Ayuntamiento de Marbella, inició sus emisiones el 7 de junio de 2010.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="M95">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="M95 Manual">
     <title>Marbella (Málaga)</title>
     <desc>Información local sobre Marbella (Málaga). Pertenece a M.95 Televisión e inició sus emisiones en 1995, aunque desde 1985 emitía de forma local a través de redes de cable.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="M95">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="M95 Manual">
     <title>Marbella (Málaga)</title>
     <desc>Información local sobre Marbella (Málaga). Pertenece a M.95 Televisión e inició sus emisiones en 1995, aunque desde 1985 emitía de forma local a través de redes de cable.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="M95">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="M95 Manual">
     <title>Marbella (Málaga)</title>
     <desc>Información local sobre Marbella (Málaga). Pertenece a M.95 Televisión e inició sus emisiones en 1995, aunque desde 1985 emitía de forma local a través de redes de cable.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Torremolinos TV">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Torremolinos TV Manual">
     <title>Torremolinos (Málaga)</title>
     <desc>Información local sobre Torremolinos (Málaga). Gestionado por el Ayuntamiento de Torremolinos, inició sus emisiones a principios del año 2001. También comparte lazos operativos de emisión mancomunada junto al Ayuntamiento de Alhaurín de la Torre, bajo la marca de emisión Torrevisión</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Torremolinos TV">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Torremolinos TV Manual">
     <title>Torremolinos (Málaga)</title>
     <desc>Información local sobre Torremolinos (Málaga). Gestionado por el Ayuntamiento de Torremolinos, inició sus emisiones a principios del año 2001. También comparte lazos operativos de emisión mancomunada junto al Ayuntamiento de Alhaurín de la Torre, bajo la marca de emisión Torrevisión</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Torremolinos TV">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Torremolinos TV Manual">
     <title>Torremolinos (Málaga)</title>
     <desc>Información local sobre Torremolinos (Málaga). Gestionado por el Ayuntamiento de Torremolinos, inició sus emisiones a principios del año 2001. También comparte lazos operativos de emisión mancomunada junto al Ayuntamiento de Alhaurín de la Torre, bajo la marca de emisión Torrevisión</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Fuengirola TV">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Fuengirola TV Manual">
     <title>Fuengirola TV (Málaga)</title>
     <desc>Información local sobre Fuengirola (Málaga). Gestionado por el Ayuntamiento de Fuengirola, inició sus emisiones previsiblemente a principios de la década 00.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Fuengirola TV">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Fuengirola TV Manual">
     <title>Fuengirola TV (Málaga)</title>
     <desc>Información local sobre Fuengirola (Málaga). Gestionado por el Ayuntamiento de Fuengirola, inició sus emisiones previsiblemente a principios de la década 00.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Fuengirola TV">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Fuengirola TV Manual">
     <title>Fuengirola TV (Málaga)</title>
     <desc>Información local sobre Fuengirola (Málaga). Gestionado por el Ayuntamiento de Fuengirola, inició sus emisiones previsiblemente a principios de la década 00.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Estepona TV">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Estepona TV Manual">
     <title>Estepona (Málaga)</title>
     <desc>Información local sobre Estepona (Málaga). Gestionado por el Ayuntamiento de Estepona.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Estepona TV">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Estepona TV Manual">
     <title>Estepona (Málaga)</title>
     <desc>Información local sobre Estepona (Málaga). Gestionado por el Ayuntamiento de Estepona.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Estepona TV">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Estepona TV Manual">
     <title>Estepona (Málaga)</title>
     <desc>Información local sobre Estepona (Málaga). Gestionado por el Ayuntamiento de Estepona.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Mijas TV">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Mijas TV Manual">
     <title>Mijas (Málaga)</title>
     <desc>Información local sobre Mijas (Málaga). Gestionado por el Ayuntamiento de Mijas, inició sus emisiones el 6 de junio de 1994.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Mijas TV">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Mijas TV Manual">
     <title>Mijas (Málaga)</title>
     <desc>Información local sobre Mijas (Málaga). Gestionado por el Ayuntamiento de Mijas, inició sus emisiones el 6 de junio de 1994.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Mijas TV">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Mijas TV Manual">
     <title>Mijas (Málaga)</title>
     <desc>Información local sobre Mijas (Málaga). Gestionado por el Ayuntamiento de Mijas, inició sus emisiones el 6 de junio de 1994.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Alhaurin TV">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Alhaurin TV Manual">
     <title>Alhaurín el Grande (Málaga)</title>
     <desc>Información local sobre Alhaurín el Grande (Málaga). Gestionado por el Ayuntamiento de Alhaurín el Grande, inició sus emisiones en 2002.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Alhaurin TV">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Alhaurin TV Manual">
     <title>Alhaurín el Grande (Málaga)</title>
     <desc>Información local sobre Alhaurín el Grande (Málaga). Gestionado por el Ayuntamiento de Alhaurín el Grande, inició sus emisiones en 2002.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Alhaurin TV">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Alhaurin TV Manual">
     <title>Alhaurín el Grande (Málaga)</title>
     <desc>Información local sobre Alhaurín el Grande (Málaga). Gestionado por el Ayuntamiento de Alhaurín el Grande, inició sus emisiones en 2002.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal Coin">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal Coin Manual">
     <title>Coín (Málaga)</title>
     <desc>Información local sobre Coín (Málaga). Gestionado por el Ayuntamiento de Coín.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal Coin">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal Coin Manual">
     <title>Coín (Málaga)</title>
     <desc>Información local sobre Coín (Málaga). Gestionado por el Ayuntamiento de Coín.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal Coin">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Coin Manual">
     <title>Coín (Málaga)</title>
     <desc>Información local sobre Coín (Málaga). Gestionado por el Ayuntamiento de Coín.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="TVM Cordoba">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="TVM Cordoba Manual">
     <title>Córdoba capital</title>
     <desc>Información local sobre Córdoba capital. Gestionado por el Ayuntamiento de Córdoba, inició sus emisiones a finales de la década de los 80.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="TVM Cordoba">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="TVM Cordoba Manual">
     <title>Córdoba capital</title>
     <desc>Información local sobre Córdoba capital. Gestionado por el Ayuntamiento de Córdoba, inició sus emisiones a finales de la década de los 80.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="TVM Cordoba">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="TVM Cordoba Manual">
     <title>Córdoba capital</title>
     <desc>Información local sobre Córdoba capital. Gestionado por el Ayuntamiento de Córdoba, inició sus emisiones a finales de la década de los 80.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Cordoba">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Cordoba Manual">
     <title>Córdoba</title>
     <desc>Información de proximidad sobre la provincia de Córdoba mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Cordoba">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Cordoba Manual">
     <title>Córdoba</title>
     <desc>Información de proximidad sobre la provincia de Córdoba mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Cordoba">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Cordoba Manual">
     <title>Córdoba</title>
     <desc>Información de proximidad sobre la provincia de Córdoba mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="PTV Cordoba">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Cordoba Manual">
     <title>Córdoba</title>
     <desc>Información de proximidad sobre la provincia de Córdoba. Pertenece a PTV Telecom (Procono) e inició sus emisiones por vídeo comunitario en 1985, pasando a emitir en abierto por TDT el 12 de abril de 2019.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Cordoba">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Cordoba Manual">
     <title>Córdoba</title>
     <desc>Información de proximidad sobre la provincia de Córdoba. Pertenece a PTV Telecom (Procono) e inició sus emisiones por vídeo comunitario en 1985, pasando a emitir en abierto por TDT el 12 de abril de 2019.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Cordoba">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Cordoba Manual">
     <title>Córdoba</title>
     <desc>Información de proximidad sobre la provincia de Córdoba. Pertenece a PTV Telecom (Procono) e inició sus emisiones por vídeo comunitario en 1985, pasando a emitir en abierto por TDT el 12 de abril de 2019.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Jaen">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Jaen Manual">
     <title>Jaén</title>
     <desc>Información de proximidad sobre la provincia de Jaén mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Jaen">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Jaen Manual">
     <title>Jaén</title>
     <desc>Información de proximidad sobre la provincia de Jaén mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Jaen">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Jaen Manual">
     <title>Jaén</title>
     <desc>Información de proximidad sobre la provincia de Jaén mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal 45 Jaen">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal 45 Jaen Manual">
     <title>Jaén</title>
     <desc>Información de proximidad sobre la provincia de Jaén. Pertenece a Antonio García Toribio e inició sus emisiones en 1993, conocida originalmente como Canal 45 Andújar, donde desde entonces lleva emitiendo.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal 45 Jaen">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal 45 Jaen Manual">
     <title>Jaén</title>
     <desc>Información de proximidad sobre la provincia de Jaén. Pertenece a Antonio García Toribio e inició sus emisiones en 1993, conocida originalmente como Canal 45 Andújar, donde desde entonces lleva emitiendo.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal 45 Jaen">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal 45 Jaen Manual">
     <title>Jaén</title>
     <desc>Información de proximidad sobre la provincia de Jaén. Pertenece a Antonio García Toribio e inició sus emisiones en 1993, conocida originalmente como Canal 45 Andújar, donde desde entonces lleva emitiendo.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Diez TV Ubeda">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Diez TV Ubeda Manual">
     <title>Úbeda (Jaén)</title>
     <desc>Información local sobre Úbeda (Jaén). Pertenece a Multimedia Jiennense e inició sus emisiones el 10 de junio de 2010. Es la cadena principal del grupo.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Diez TV Ubeda">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Diez TV Ubeda Manual">
     <title>Úbeda (Jaén)</title>
     <desc>Información local sobre Úbeda (Jaén). Pertenece a Multimedia Jiennense e inició sus emisiones el 10 de junio de 2010. Es la cadena principal del grupo.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Diez TV Ubeda">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Diez TV Ubeda Manual">
     <title>Úbeda (Jaén)</title>
     <desc>Información local sobre Úbeda (Jaén). Pertenece a Multimedia Jiennense e inició sus emisiones el 10 de junio de 2010. Es la cadena principal del grupo.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Diez TV Andujar">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Diez TV Andujar Manual">
     <title>Andújar (Jaén)</title>
     <desc>Información local sobre Andújar (Jaén). Pertenece a Multimedia Jiennense e inició sus emisionesen 2017.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Diez TV Andujar">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Diez TV Andujar Manual">
     <title>Andújar (Jaén)</title>
     <desc>Información local sobre Andújar (Jaén). Pertenece a Multimedia Jiennense e inició sus emisionesen 2017.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Diez TV Andujar">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Diez TV Andujar Manual">
     <title>Andújar (Jaén)</title>
     <desc>Información local sobre Andújar (Jaén). Pertenece a Multimedia Jiennense e inició sus emisionesen 2017.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Diez TV Las Villas">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Diez TV Las Villas Manual">
     <title>Las Villas (Jaén)</title>
     <desc>Información local sobre la comarca de Las Villas (Jaén), cuyo centro administrativo es Villacarrillo. Pertenece a Multimedia Jiennense e inició sus emisiones recientemente.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Diez TV Las Villas">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Diez TV Las Villas Manual">
     <title>Las Villas (Jaén)</title>
     <desc>Información local sobre la comarca de Las Villas (Jaén), cuyo centro administrativo es Villacarrillo. Pertenece a Multimedia Jiennense e inició sus emisiones recientemente.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Diez TV Las Villas">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Diez TV Las Villas Manual">
     <title>Las Villas (Jaén)</title>
     <desc>Información local sobre la comarca de Las Villas (Jaén), cuyo centro administrativo es Villacarrillo. Pertenece a Multimedia Jiennense e inició sus emisiones recientemente.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Linares">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Linares Manual">
     <title>Linares (Jaén)</title>
     <desc>Información de proximidad sobre Lineares (Jaén) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Linares">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Linares Manual">
     <title>Linares (Jaén)</title>
     <desc>Información de proximidad sobre Lineares (Jaén) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Linares">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Linares Manual">
     <title>Linares (Jaén)</title>
     <desc>Información de proximidad sobre Lineares (Jaén) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="PTV Linares">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Linares Manual">
     <title>Linares (Jaén)</title>
     <desc>Información local sobre Linares (Jaén). Pertenece a PTV Telecom (Procono) e inició sus emisiones a finales de la década de los 80 bajo el nombre de TV Linares.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Linares">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Linares Manual">
     <title>Linares (Jaén)</title>
     <desc>Información local sobre Linares (Jaén). Pertenece a PTV Telecom (Procono) e inició sus emisiones a finales de la década de los 80 bajo el nombre de TV Linares.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Linares">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Linares Manual">
     <title>Linares (Jaén)</title>
     <desc>Información local sobre Linares (Jaén). Pertenece a PTV Telecom (Procono) e inició sus emisiones a finales de la década de los 80 bajo el nombre de TV Linares.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="9 La Loma">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="9 La Loma Manual">
     <title>La Loma (Jaén)</title>
     <desc>Información local sobre la comarca de La Loma (Jaén), cuya capital histórica es Úbeda. Pertenece a Canal Baeza y La Loma e inició sus emisiones previsiblemente a finales de la década de los 90, como Canal Baeza.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="9 La Loma">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="9 La Loma Manual">
     <title>La Loma (Jaén)</title>
     <desc>Información local sobre la comarca de La Loma (Jaén), cuya capital histórica es Úbeda. Pertenece a Canal Baeza y La Loma e inició sus emisiones previsiblemente a finales de la década de los 90, como Canal Baeza.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="9 La Loma">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="9 La Loma Manual">
     <title>La Loma (Jaén)</title>
     <desc>Información local sobre la comarca de La Loma (Jaén), cuya capital histórica es Úbeda. Pertenece a Canal Baeza y La Loma e inició sus emisiones previsiblemente a finales de la década de los 90, como Canal Baeza.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Interalmeria">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Interalmeria Manual">
     <title>Almería capital</title>
     <desc>Información local sobre Almería capital. Gestionado por el Ayuntamiento de Almería, inició sus emisiones el 5 de enero de 2007.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Interalmeria">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Interalmeria Manual">
     <title>Almería capital</title>
     <desc>Información local sobre Almería capital. Gestionado por el Ayuntamiento de Almería, inició sus emisiones el 5 de enero de 2007.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Interalmeria">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Interalmeria Manual">
     <title>Almería capital</title>
     <desc>Información local sobre Almería capital. Gestionado por el Ayuntamiento de Almería, inició sus emisiones el 5 de enero de 2007.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Almeria">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Almeria Manual">
     <title>Almería</title>
     <desc>Información de proximidad sobre la provincia de Almería mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Almeria">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Almeria Manual">
     <title>Almería</title>
     <desc>Información de proximidad sobre la provincia de Almería mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Almeria">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Almeria Manual">
     <title>Almería</title>
     <desc>Información de proximidad sobre la provincia de Almería mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="PTV Almeria">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Almeria Manual">
     <title>Almería</title>
     <desc>Información de proximidad sobre la provincia de Almería. Pertenece a PTV Telecom (Procono) e inició sus emisiones en la primera semana de noviembre de 2022.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Almeria">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Almeria Manual">
     <title>Almería</title>
     <desc>Información de proximidad sobre la provincia de Almería. Pertenece a PTV Telecom (Procono) e inició sus emisiones en la primera semana de noviembre de 2022.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Almeria">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Almeria Manual">
     <title>Almería</title>
     <desc>Información de proximidad sobre la provincia de Almería. Pertenece a PTV Telecom (Procono) e inició sus emisiones en la primera semana de noviembre de 2022.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Almeria 24h TV">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Almeria 24h TV Manual">
     <title>Grandes Éxitos Non-Stop</title>
     <desc>Información de proximidad sobre la provincia de Almería. Pertenece a Aprim Group e inició sus emisiones previsiblemente a mediados de 2022.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Almeria 24h TV">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Almeria 24h TV Manual">
     <title>Grandes Éxitos Non-Stop</title>
     <desc>Información de proximidad sobre la provincia de Almería. Pertenece a Aprim Group e inició sus emisiones previsiblemente a mediados de 2022.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Almeria 24h TV">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Almeria 24h TV Manual">
     <title>Grandes Éxitos Non-Stop</title>
     <desc>Información de proximidad sobre la provincia de Almería. Pertenece a Aprim Group e inició sus emisiones previsiblemente a mediados de 2022.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Almeria TV">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Almeria TV Manual">
     <title>Almería capital</title>
     <desc>Información local sobre Almería capital.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Almeria TV">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Almeria TV Manual">
     <title>Almería capital</title>
     <desc>Información local sobre Almería capital.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Almeria TV">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Almeria TV Manual">
     <title>Almería capital</title>
     <desc>Información local sobre Almería capital.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Cadiz">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Cadiz Manual">
     <title>Cádiz</title>
     <desc>Información de proximidad sobre la provincia de Cádiz mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Cadiz">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Cadiz Manual">
     <title>Cádiz</title>
     <desc>Información de proximidad sobre la provincia de Cádiz mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Cadiz">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Cadiz Manual">
     <title>Cádiz</title>
     <desc>Información de proximidad sobre la provincia de Cádiz mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Jerez">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Jerez Manual">
     <title>Jerez de la Frontera (Cádiz)</title>
     <desc>Información de proximidad sobre Jerez de la Frontera (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Jerez">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Jerez Manual">
     <title>Jerez de la Frontera (Cádiz)</title>
     <desc>Información de proximidad sobre Jerez de la Frontera (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Jerez">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Jerez Manual">
     <title>Jerez de la Frontera (Cádiz)</title>
     <desc>Información de proximidad sobre Jerez de la Frontera (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Arcos">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Arcos Manual">
     <title>Arcos de la Frontera (Cádiz)</title>
     <desc>Información de proximidad sobre Arcos de la Frontera (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Arcos">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Arcos Manual">
     <title>Arcos de la Frontera (Cádiz)</title>
     <desc>Información de proximidad sobre Arcos de la Frontera (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Arcos">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Arcos Manual">
     <title>Arcos de la Frontera (Cádiz)</title>
     <desc>Información de proximidad sobre Arcos de la Frontera (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Onda Algeciras">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Onda Algeciras Manual">
     <title>Algeciras (Cádiz)</title>
     <desc>Información local sobre Algeciras (Cádiz). Gestionado por el Ayuntamiento de Algeciras, inició sus emisiones el 17 de octubre de 1996.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Onda Algeciras">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Onda Algeciras Manual">
     <title>Algeciras (Cádiz)</title>
     <desc>Información local sobre Algeciras (Cádiz). Gestionado por el Ayuntamiento de Algeciras, inició sus emisiones el 17 de octubre de 1996.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Onda Algeciras">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Onda Algeciras Manual">
     <title>Algeciras (Cádiz)</title>
     <desc>Información local sobre Algeciras (Cádiz). Gestionado por el Ayuntamiento de Algeciras, inició sus emisiones el 17 de octubre de 1996.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Algeciras">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Algeciras Manual">
     <title>Algeciras (Cádiz)</title>
     <desc>Información de proximidad sobre Algeciras (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Algeciras">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Algeciras Manual">
     <title>Algeciras (Cádiz)</title>
     <desc>Información de proximidad sobre Algeciras (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Algeciras">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Algeciras Manual">
     <title>Algeciras (Cádiz)</title>
     <desc>Información de proximidad sobre Algeciras (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal San Roque">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal San Roque Manual">
     <title>San Roque (Cádiz)</title>
     <desc>Información local sobre San Roque (Cádiz). Gestionado por el Ayuntamiento de San Roque.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal San Roque">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal San Roque Manual">
     <title>San Roque (Cádiz)</title>
     <desc>Información local sobre San Roque (Cádiz). Gestionado por el Ayuntamiento de San Roque.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal San Roque">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal San Roque Manual">
     <title>San Roque (Cádiz)</title>
     <desc>Información local sobre San Roque (Cádiz). Gestionado por el Ayuntamiento de San Roque.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal Costa Noroeste">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal Costa Noroeste Manual">
     <title>Costa Noroeste de Cádiz</title>
     <desc>Información comarcal de la Costa Noroeste sobre Sanlúcar, Chipiona, Rota y Trebujena (Cádiz).</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal Costa Noroeste">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal Costa Noroeste Manual">
     <title>Costa Noroeste de Cádiz</title>
     <desc>Información comarcal de la Costa Noroeste sobre Sanlúcar, Chipiona, Rota y Trebujena (Cádiz).</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal Costa Noroeste">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Costa Noroeste Manual">
     <title>Costa Noroeste de Cádiz</title>
     <desc>Información comarcal de la Costa Noroeste sobre Sanlúcar, Chipiona, Rota y Trebujena (Cádiz).</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV San Fernando">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV San Fernando Manual">
     <title>San Fernando (Cádiz)</title>
     <desc>Información de proximidad sobre San Fernando (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV San Fernando">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV San Fernando Manual">
     <title>San Fernando (Cádiz)</title>
     <desc>Información de proximidad sobre San Fernando (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV San Fernando">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV San Fernando Manual">
     <title>San Fernando (Cádiz)</title>
     <desc>Información de proximidad sobre San Fernando (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="SalTV">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="SalTV Manual">
     <title>San Fernando (Cádiz)</title>
     <desc>Información local sobre San Fernando (Cádiz). Inició sus emisiones previsiblemente en el año 2018.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="SalTV">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="SalTV Manual">
     <title>San Fernando (Cádiz)</title>
     <desc>Información local sobre San Fernando (Cádiz). Inició sus emisiones previsiblemente en el año 2018.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="SalTV">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="SalTV Manual">
     <title>San Fernando (Cádiz)</title>
     <desc>Información local sobre San Fernando (Cádiz). Inició sus emisiones previsiblemente en el año 2018.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Rota">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Rota Manual">
     <title>Rota (Cádiz)</title>
     <desc>Información de proximidad sobre Rota (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Rota">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Rota Manual">
     <title>Rota (Cádiz)</title>
     <desc>Información de proximidad sobre Rota (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Rota">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Rota Manual">
     <title>Rota (Cádiz)</title>
     <desc>Información de proximidad sobre Rota (Cádiz) mediante desconexiones locales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="8 Sierra de Cadiz">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="8 Sierra de Cadiz Manual">
     <title>Sierra de Cádiz</title>
     <desc>Información comarcal de la Sierra de Cádiz.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="8 Sierra de Cadiz">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="8 Sierra de Cadiz Manual">
     <title>Sierra de Cádiz</title>
     <desc>Información comarcal de la Sierra de Cádiz.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="8 Sierra de Cadiz">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="8 Sierra de Cadiz Manual">
     <title>Sierra de Cádiz</title>
     <desc>Información comarcal de la Sierra de Cádiz.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="8 Chiclana">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="8 Chiclana Manual">
     <title>Chiclana de la Frontera (Cádiz)</title>
     <desc>Información local sobre Chiclana de la Frontera (Cádiz).</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="8 Chiclana">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="8 Chiclana Manual">
     <title>Chiclana de la Frontera (Cádiz)</title>
     <desc>Información local sobre Chiclana de la Frontera (Cádiz).</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="8 Chiclana">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="8 Chiclana Manual">
     <title>Chiclana de la Frontera (Cádiz)</title>
     <desc>Información local sobre Chiclana de la Frontera (Cádiz).</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="8 La Janda">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="8 La Janda Manual">
     <title>La Janda de Cádiz</title>
     <desc>Información comarcal sobre La Janda de Cádiz.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="8 La Janda">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="8 La Janda Manual">
     <title>La Janda de Cádiz</title>
     <desc>Información comarcal sobre La Janda de Cádiz.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="8 La Janda">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="8 La Janda Manual">
     <title>La Janda de Cádiz</title>
     <desc>Información comarcal sobre La Janda de Cádiz.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Tuya La Janda TV">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Tuya La Janda TV Manual">
     <title>San Fernando</title>
     <desc>Información comarcal sobre La Janda de Cádiz. Pertenece a Guillermo Ortiz Chaves e inició sus emisiones previsiblemente en el año 2013.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Tuya La Janda TV">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Tuya La Janda TV Manual">
     <title>San Fernando</title>
     <desc>Información comarcal sobre La Janda de Cádiz. Pertenece a Guillermo Ortiz Chaves e inició sus emisiones previsiblemente en el año 2013.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Tuya La Janda TV">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Tuya La Janda TV Manual">
     <title>San Fernando</title>
     <desc>Información comarcal sobre La Janda de Cádiz. Pertenece a Guillermo Ortiz Chaves e inició sus emisiones previsiblemente en el año 2013.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Teleonuba">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Teleonuba Manual">
     <title>Huelva</title>
     <desc>Información de proximidad sobre la provincia de Huelva. Pertenece a Grupo Azahara de Comunicaciones e inició sus emisiones previsiblemente en los años 90.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Teleonuba">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Teleonuba Manual">
     <title>Huelva</title>
     <desc>Información de proximidad sobre la provincia de Huelva. Pertenece a Grupo Azahara de Comunicaciones e inició sus emisiones previsiblemente en los años 90.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Teleonuba">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Teleonuba Manual">
     <title>Huelva</title>
     <desc>Información de proximidad sobre la provincia de Huelva. Pertenece a Grupo Azahara de Comunicaciones e inició sus emisiones previsiblemente en los años 90.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="CanalCosta">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="CanalCosta Manual">
     <title>Huelva</title>
     <desc>Información de proximidad sobre la provincia de Huelva. Pertenece a Grupo Azahara de Comunicaciones (AKA Lepevisión) e inició sus emisiones en el año 1998.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="CanalCosta">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="CanalCosta Manual">
     <title>Huelva</title>
     <desc>Información de proximidad sobre la provincia de Huelva. Pertenece a Grupo Azahara de Comunicaciones (AKA Lepevisión) e inició sus emisiones en el año 1998.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="CanalCosta">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="CanalCosta Manual">
     <title>Huelva</title>
     <desc>Información de proximidad sobre la provincia de Huelva. Pertenece a Grupo Azahara de Comunicaciones (AKA Lepevisión) e inició sus emisiones en el año 1998.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Condavision">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Condavision Manual">
     <title>Condado de Huelva</title>
     <desc>Información comarcal sobre El Condado de Huelva. Pertenece a Grupo Azahara de Comunicaciones e inició sus emisiones el 21 de febrero de 2011.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Condavision">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Condavision Manual">
     <title>Condado de Huelva</title>
     <desc>Información comarcal sobre El Condado de Huelva. Pertenece a Grupo Azahara de Comunicaciones e inició sus emisiones el 21 de febrero de 2011.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Condavision">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Condavision Manual">
     <title>Condado de Huelva</title>
     <desc>Información comarcal sobre El Condado de Huelva. Pertenece a Grupo Azahara de Comunicaciones e inició sus emisiones el 21 de febrero de 2011.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Cartaya TV">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Cartaya TV Manual">
     <title>Cartaya (Huelva)</title>
     <desc>Información local sobre Cartaya (Huelva). Gestionado por el Ayuntamiento de Cartaya.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Cartaya TV">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Cartaya TV Manual">
     <title>Cartaya (Huelva)</title>
     <desc>Información local sobre Cartaya (Huelva). Gestionado por el Ayuntamiento de Cartaya.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Cartaya TV">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Cartaya TV Manual">
     <title>Cartaya (Huelva)</title>
     <desc>Información local sobre Cartaya (Huelva). Gestionado por el Ayuntamiento de Cartaya.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="TG7 Granada">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="TG7 Granada Manual">
     <title>Granada capital</title>
     <desc>Información local sobre Granada capital. Gestionado por el Ayuntamiento de Granada, inició sus emisiones el 27 de septiembre de 2009.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="TG7 Granada">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="TG7 Granada Manual">
     <title>Granada capital</title>
     <desc>Información local sobre Granada capital. Gestionado por el Ayuntamiento de Granada, inició sus emisiones el 27 de septiembre de 2009.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="TG7 Granada">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="TG7 Granada Manual">
     <title>Granada capital</title>
     <desc>Información local sobre Granada capital. Gestionado por el Ayuntamiento de Granada, inició sus emisiones el 27 de septiembre de 2009.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="7TV Granada">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Granada Manual">
     <title>Granada</title>
     <desc>Información de proximidad sobre la provincia de Granada mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="7TV Granada">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Granada Manual">
     <title>Granada</title>
     <desc>Información de proximidad sobre la provincia de Granada mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="7TV Granada">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="7TV Granada Manual">
     <title>Granada</title>
     <desc>Información de proximidad sobre la provincia de Granada mediante desconexiones provinciales de la red de televisiones locales de 7TV.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="PTV Granada">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Granada Manual">
     <title>Granada</title>
     <desc>Información de proximidad sobre la provincia de Granada. Pertenece a PTV Telecom (Procono) e inició sus emisiones en septiembre de 2020.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="PTV Granada">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Granada Manual">
     <title>Granada</title>
     <desc>Información de proximidad sobre la provincia de Granada. Pertenece a PTV Telecom (Procono) e inició sus emisiones en septiembre de 2020.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="PTV Granada">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="PTV Granada Manual">
     <title>Granada</title>
     <desc>Información de proximidad sobre la provincia de Granada. Pertenece a PTV Telecom (Procono) e inició sus emisiones en septiembre de 2020.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="TeleGranada">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="TeleGranada Manual">
     <title>Granada capital</title>
     <desc>Información local sobre Granada capital. Pertenece a ArteFM e inició sus emisiones previsiblemente en noviembre del 2024.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="TeleGranada">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="TeleGranada Manual">
     <title>Granada capital</title>
     <desc>Información local sobre Granada capital. Pertenece a ArteFM e inició sus emisiones previsiblemente en noviembre del 2024.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="TeleGranada">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="TeleGranada Manual">
     <title>Granada capital</title>
     <desc>Información local sobre Granada capital. Pertenece a ArteFM e inició sus emisiones previsiblemente en noviembre del 2024.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Telemotril">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Telemotril Manual">
     <title>Motril (Granada)</title>
     <desc>Información local y comarcal sobre Motril (Granada) y la Costa Tropical Granadina. Gestionado por el Ayuntamiento de Motril.</desc>
   </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Telemotril">
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Telemotril Manual">
     <title>Motril (Granada)</title>
     <desc>Información local y comarcal sobre Motril (Granada) y la Costa Tropical Granadina. Gestionado por el Ayuntamiento de Motril.</desc>
   </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Telemotril">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Telemotril Manual">
     <title>Motril (Granada)</title>
     <desc>Información local y comarcal sobre Motril (Granada) y la Costa Tropical Granadina. Gestionado por el Ayuntamiento de Motril.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal Musical">
+  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal Musical">
+    <title>San Fernando</title>
+    <desc>Selección musical continua sin cortes comerciales.</desc>
+  </programme>
+  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal Musical">
+    <title>San Fernando</title>
+    <desc>Selección musical continua sin cortes comerciales.</desc>
+  </programme>
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Musical">
     <title>San Fernando</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
@@ -993,7 +1001,7 @@
     <title>San Fernando</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal Musical">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Musical">
     <title>San Fernando</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
@@ -1005,7 +1013,7 @@
     <title>San Fernando</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal Musical">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Musical">
     <title>San Fernando</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
@@ -1017,7 +1025,7 @@
     <title>San Fernando</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal Musical">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Musical">
     <title>San Fernando</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
@@ -1029,7 +1037,7 @@
     <title>San Fernando</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal Musical">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Musical">
     <title>San Fernando</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
@@ -1041,20 +1049,8 @@
     <title>San Fernando</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal Musical">
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Musical">
     <title>San Fernando</title>
-    <desc>Selección musical continua sin cortes comerciales.</desc>
-  </programme>
-  <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal Musical">
-    <title>San Fernando</title>
-    <desc>Selección musical continua sin cortes comerciales.</desc>
-  </programme>
-  <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal Musical">
-    <title>San Fernando</title>
-    <desc>Selección musical continua sin cortes comerciales.</desc>
-  </programme>
-  <programme start="20260920060000 +0200" stop="20260921060000 +0200" channel="Canal Musical">
-    <title>Grandes Éxitos Non-Stop</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
   <programme start="20260921060000 +0200" stop="20260922060000 +0200" channel="Canal Musical">
@@ -1062,6 +1058,10 @@
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
   <programme start="20260922060000 +0200" stop="20260923060000 +0200" channel="Canal Musical">
+    <title>Grandes Éxitos Non-Stop</title>
+    <desc>Selección musical continua sin cortes comerciales.</desc>
+  </programme>
+  <programme start="20260923060000 +0200" stop="20260924060000 +0200" channel="Canal Musical">
     <title>Grandes Éxitos Non-Stop</title>
     <desc>Selección musical continua sin cortes comerciales.</desc>
   </programme>
