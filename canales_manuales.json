@@ -326,8 +326,8 @@
   {
     "id": "Tuya La Janda TV Manual",
     "name": "Tuya La Janda TV Manual",
-    "title": "San Fernando (Cádiz)",
-    "desc": "Información comarcal sobre La Janda de Cádiz. Pertenece a Guillermo Ortiz Chaves e inició sus emisiones previsiblemente en el año 2013."
+    "title": "Chiclana de la Frontera y La Janda (Cádiz)",
+    "desc": "Información local y comarcal sobre Chiclana de la Frontera (Cádiz) y La Janda de Cádiz (Conil, Vejer, Barbate, Medina-Sidonia). Pertenece a Guillermo Ortiz Chaves e inició sus emisiones previsiblemente en el año 2013."
   },
   {
     "id": "Teleonuba Manual",
@@ -382,6 +382,480 @@
     "name": "Telemotril Manual",
     "title": "Motril (Granada)",
     "desc": "Información local y comarcal sobre Motril (Granada) y la Costa Tropical Granadina. Gestionado por el Ayuntamiento de Motril."
+  },
+  {
+    "id": "Saja Nansa TV Manual",
+    "name": "Saja Nansa TV Manual",
+    "title": "Cantabria",
+    "desc": "Información sobre la comunidad cántabra. Pertenece a Onda Occidental Cantabria e inició sus emisiones previsiblemente en 2025."
+  },
+  {
+    "id": "De Laredu Lin TV Manual",
+    "name": "De Laredu Lin TV Manual",
+    "title": "Cantabria",
+    "desc": "Información sobre la comunidad cántabra."
+  },
+  {
+    "id": "Telearanda Manual",
+    "name": "Telearanda Manual",
+    "title": "Aranda de Duero (Burgos)",
+    "desc": "Información local sobre Aranda de Duero (Burgos)."
+  },
+  {
+    "id": "Canal 4 Catalunya",
+    "name": "Canal 4 Catalunya",
+    "title": "Barcelona",
+    "desc": "Información de proximidad sobre Barcelona capital, Sabadell, Terrassa, Granollers, el Vallès Oriental y el Vallès Occidental."
+  },
+  {
+    "id": "beteve",
+    "name": "beteve",
+    "title": "Barcelona capital",
+    "desc": "Información local sobre Barcelona capital. Gestionado por el Ayuntamiento de Barcelona, inició sus emisiones el 3 de noviembre de 1994."
+  },
+  {
+    "id": "Canal Terrassa",
+    "name": "Canal Terrassa",
+    "title": "Tarrasa (Barcelona)",
+    "desc": "Información local sobre Tarrasa (Barcelona). Gestionado por el Ayuntamiento de Terrassa, inició sus emisiones el 22 de junio de 1987 bajo el nombre de TVT, y que actualmente, desde el año 2000, conocemos como Canal Terrassa."
+  },
+  {
+    "id": "Canal Taronja Central",
+    "name": "Canal Taronja Central",
+    "title": "Barcelona central",
+    "desc": "Información comarcal sobre Barcelona central. Pertenece a Grup Taelus e inició sus emisiones el 5 de febrero de 2007."
+  },
+  {
+    "id": "Canal Taronja Anoia",
+    "name": "Canal Taronja Anoia",
+    "title": "Noya de Barcelona",
+    "desc": "Información sobre la comarca de Anoia, en la provincia de Barcelona. Pertenece a Grup Taelus e inició sus emisiones el 5 de febrero de 2007."
+  },
+  {
+    "id": "Canal Taronja Osona i Moianes",
+    "name": "Canal Taronja Osona i Moianes",
+    "title": "Osona, Moyanés y Llusanés de Barcelona",
+    "desc": "Información sobre las comarcas de Osona, Moianès y Lluçanès, en la provincia de Barcelona. Pertenece a Grup Taelus e inició sus emisiones el 5 de febrero de 2007."
+  },
+  {
+    "id": "TV Sabadell Valles",
+    "name": "TV Sabadell Valles",
+    "title": "Sabadell y Vallés Occidental de Barcelona",
+    "desc": "Información local y comarcal sobre Sabadell (Barcelona) y el Vallès Occidental.  Pertenece a Grup Taelus e inició sus emisiones en el año 2020."
+  },
+  {
+    "id": "votv",
+    "name": "votv",
+    "title": "Vallés Oriental de Barcelona",
+    "desc": "Información comarcal sobre el Vallès Oriental de Barcelona."
+  },
+  {
+    "id": "Piera TV",
+    "name": "Piera TV",
+    "title": "Piera (Barcelona)",
+    "desc": "Información local sobre Piera (Barcelona)."
+  },
+  {
+    "id": "Mar TV",
+    "name": "Mar TV",
+    "title": "Maresme de Barcelona",
+    "desc": "Información comarcal sobre Maresme de Barcelona."
+  },
+  {
+    "id": "TV Girona",
+    "name": "TV Girona",
+    "title": "Gerona capital",
+    "desc": "Información local sobre Girona capital."
+  },
+  {
+    "id": "Emporda TV",
+    "name": "Emporda TV",
+    "title": "Alto Ampurdán de Girona",
+    "desc": "Información comarcal sobre el Alt Empordà de Girona."
+  },
+  {
+    "id": "Canal 10 Emporda",
+    "name": "Canal 10 Emporda",
+    "title": "Alto Ampurdán de Girona",
+    "desc": "Información comarcal sobre el Alt Empordà de Girona."
+  },
+  {
+    "id": "TAC12",
+    "name": "TAC12",
+    "title": "Campo de Tarragona",
+    "desc": "Información comarcal sobre el Camp de Tarragona."
+  },
+  {
+    "id": "Canal Reus",
+    "name": "Canal Reus",
+    "title": "Reus, Bajo Campo y El Priorato de Tarragona",
+    "desc": "Información local y comarcal sobre Reus (Tarragona), el Baix Camp y el Priorat de Tarragona."
+  },
+  {
+    "id": "Canal Terres de l Ebre",
+    "name": "Canal Terres de l Ebre",
+    "title": "Tierras del Ebro (Tarragona)",
+    "desc": "Información comarcal sobre las Terres de l Ebre (Tarragona)."
+  },
+  {
+    "id": "Televalencia",
+    "name": "Televalencia",
+    "title": "Valencia capital",
+    "desc": "Información local sobre Valencia capital."
+  },
+  {
+    "id": "Onda Valencia",
+    "name": "Onda Valencia",
+    "title": "Valencia capital",
+    "desc": "Información local sobre Valencia capital."
+  },
+  {
+    "id": "Distrito TV Valencia",
+    "name": "Distrito TV Valencia",
+    "title": "Valencia capital",
+    "desc": "Emisión nacional de Distrito TV con desconexiones locales con información sobre Valencia capital."
+  },
+  {
+    "id": "Telesafor",
+    "name": "Telesafor",
+    "title": "La Safor de Valencia",
+    "desc": "Información comarcal sobre La Safor y el valle de La Valldigna, en la provincia de Valencia."
+  },
+  {
+    "id": "Ribera Televisio",
+    "name": "Ribera Televisio",
+    "title": "Ribera de Valencia",
+    "desc": "Información comarcal sobre la Ribera de Valencia."
+  },
+  {
+    "id": "33TV Catarroja",
+    "name": "33TV Catarroja",
+    "title": "Catarroja (Valencia)",
+    "desc": "Información local sobre Catarroja (Valencia)."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
+  },
+  {
+    "id": "Canal Musical",
+    "name": "Canal Musical",
+    "title": "San Fernando",
+    "desc": "Selección musical continua sin cortes comerciales."
   },
   {
     "id": "Canal Musical",
