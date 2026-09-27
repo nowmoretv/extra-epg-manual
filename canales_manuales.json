@@ -402,202 +402,202 @@
     "desc": "Información local sobre Aranda de Duero (Burgos)."
   },
   {
-    "id": "Canal 4 Catalunya",
-    "name": "Canal 4 Catalunya",
+    "id": "Canal 4 Catalunya Manual",
+    "name": "Canal 4 Catalunya Manual",
     "title": "Barcelona",
     "desc": "Información de proximidad sobre Barcelona capital, Sabadell, Terrassa, Granollers, el Vallès Oriental y el Vallès Occidental."
   },
   {
-    "id": "beteve",
-    "name": "beteve",
+    "id": "beteve Manual",
+    "name": "beteve Manual",
     "title": "Barcelona capital",
     "desc": "Información local sobre Barcelona capital. Gestionado por el Ayuntamiento de Barcelona, inició sus emisiones el 3 de noviembre de 1994."
   },
   {
-    "id": "Canal Terrassa",
-    "name": "Canal Terrassa",
+    "id": "Canal Terrassa Manual",
+    "name": "Canal Terrassa Manual",
     "title": "Tarrasa (Barcelona)",
     "desc": "Información local sobre Tarrasa (Barcelona). Gestionado por el Ayuntamiento de Terrassa, inició sus emisiones el 22 de junio de 1987 bajo el nombre de TVT, y que actualmente, desde el año 2000, conocemos como Canal Terrassa."
   },
   {
-    "id": "Canal Taronja Central",
-    "name": "Canal Taronja Central",
+    "id": "Canal Taronja Central Manual",
+    "name": "Canal Taronja Central Manual",
     "title": "Barcelona central",
     "desc": "Información comarcal sobre Barcelona central. Pertenece a Grup Taelus e inició sus emisiones el 5 de febrero de 2007."
   },
   {
-    "id": "Canal Taronja Anoia",
-    "name": "Canal Taronja Anoia",
+    "id": "Canal Taronja Anoia Manual",
+    "name": "Canal Taronja Anoia Manual",
     "title": "Noya de Barcelona",
     "desc": "Información sobre la comarca de Anoia, en la provincia de Barcelona. Pertenece a Grup Taelus e inició sus emisiones el 5 de febrero de 2007."
   },
   {
-    "id": "Canal Taronja Osona i Moianes",
-    "name": "Canal Taronja Osona i Moianes",
+    "id": "Canal Taronja Osona i Moianes Manual",
+    "name": "Canal Taronja Osona i Moianes Manual",
     "title": "Osona, Moyanés y Llusanés de Barcelona",
     "desc": "Información sobre las comarcas de Osona, Moianès y Lluçanès, en la provincia de Barcelona. Pertenece a Grup Taelus e inició sus emisiones el 5 de febrero de 2007."
   },
   {
-    "id": "TV Sabadell Valles",
-    "name": "TV Sabadell Valles",
+    "id": "TV Sabadell Valles Manual",
+    "name": "TV Sabadell Valles Manual",
     "title": "Sabadell y Vallés Occidental de Barcelona",
     "desc": "Información local y comarcal sobre Sabadell (Barcelona) y el Vallès Occidental.  Pertenece a Grup Taelus e inició sus emisiones en el año 2020."
   },
   {
-    "id": "votv",
-    "name": "votv",
+    "id": "votv Manual",
+    "name": "votv Manual",
     "title": "Vallés Oriental de Barcelona",
     "desc": "Información comarcal sobre el Vallès Oriental de Barcelona."
   },
   {
-    "id": "Piera TV",
-    "name": "Piera TV",
+    "id": "Piera TV Manual",
+    "name": "Piera TV Manual",
     "title": "Piera (Barcelona)",
     "desc": "Información local sobre Piera (Barcelona)."
   },
   {
-    "id": "Mar TV",
-    "name": "Mar TV",
+    "id": "Mar TV Manual",
+    "name": "Mar TV Manual",
     "title": "Maresme de Barcelona",
     "desc": "Información comarcal sobre Maresme de Barcelona."
   },
   {
-    "id": "TV Girona",
-    "name": "TV Girona",
+    "id": "TV Girona Manual",
+    "name": "TV Girona Manual",
     "title": "Gerona capital",
     "desc": "Información local sobre Girona capital."
   },
   {
-    "id": "Emporda TV",
-    "name": "Emporda TV",
+    "id": "Emporda TV Manual",
+    "name": "Emporda TV Manual",
     "title": "Alto Ampurdán de Girona",
     "desc": "Información comarcal sobre el Alt Empordà de Girona."
   },
   {
-    "id": "Canal 10 Emporda",
-    "name": "Canal 10 Emporda",
+    "id": "Canal 10 Emporda Manual",
+    "name": "Canal 10 Emporda Manual",
     "title": "Alto Ampurdán de Girona",
     "desc": "Información comarcal sobre el Alt Empordà de Girona."
   },
   {
-    "id": "TAC12",
-    "name": "TAC12",
+    "id": "TAC12 Manual",
+    "name": "TAC12 Manual",
     "title": "Campo de Tarragona",
     "desc": "Información comarcal sobre el Camp de Tarragona."
   },
   {
-    "id": "Canal Reus",
-    "name": "Canal Reus",
+    "id": "Canal Reus Manual",
+    "name": "Canal Reus Manual",
     "title": "Reus, Bajo Campo y El Priorato de Tarragona",
     "desc": "Información local y comarcal sobre Reus (Tarragona), el Baix Camp y el Priorat de Tarragona."
   },
   {
-    "id": "Canal Terres de l Ebre",
-    "name": "Canal Terres de l Ebre",
+    "id": "Canal Terres de l Ebre Manual",
+    "name": "Canal Terres de l Ebre Manual",
     "title": "Tierras del Ebro (Tarragona)",
     "desc": "Información comarcal sobre las Terres de l Ebre (Tarragona)."
   },
   {
-    "id": "Televalencia",
-    "name": "Televalencia",
+    "id": "Televalencia Manual",
+    "name": "Televalencia Manual",
     "title": "Valencia capital",
     "desc": "Información local sobre Valencia capital."
   },
   {
-    "id": "Onda Valencia",
-    "name": "Onda Valencia",
+    "id": "Onda Valencia Manual",
+    "name": "Onda Valencia Manual",
     "title": "Valencia capital",
     "desc": "Información local sobre Valencia capital."
   },
   {
-    "id": "Distrito TV Valencia",
-    "name": "Distrito TV Valencia",
+    "id": "Distrito TV Valencia Manual",
+    "name": "Distrito TV Valencia Manual",
     "title": "Valencia capital",
     "desc": "Emisión nacional de Distrito TV con desconexiones locales con información sobre Valencia capital."
   },
   {
-    "id": "Telesafor",
-    "name": "Telesafor",
+    "id": "Telesafor Manual",
+    "name": "Telesafor Manual",
     "title": "La Safor de Valencia",
     "desc": "Información comarcal sobre La Safor y el valle de La Valldigna, en la provincia de Valencia."
   },
   {
-    "id": "Ribera Televisio",
-    "name": "Ribera Televisio",
+    "id": "Ribera Televisio Manual",
+    "name": "Ribera Televisio Manual",
     "title": "Ribera de Valencia",
     "desc": "Información comarcal sobre la Ribera de Valencia."
   },
   {
-    "id": "33TV Catarroja",
-    "name": "33TV Catarroja",
+    "id": "33TV Catarroja Manual",
+    "name": "33TV Catarroja Manual",
     "title": "Catarroja (Valencia)",
     "desc": "Información local sobre Catarroja (Valencia)."
   },
   {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "San Fernando",
-    "desc": "Selección musical continua sin cortes comerciales."
+    "id": "Univers TV Manual",
+    "name": "Univers TV Manual",
+    "title": "Valencia capital",
+    "desc": "Información local sobre Valencia capital."
   },
   {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "San Fernando",
-    "desc": "Selección musical continua sin cortes comerciales."
+    "id": "Ciudades del Ocio TV Manual",
+    "name": "Ciudades del Ocio TV Manual",
+    "title": "Valencia",
+    "desc": "Información sobre la oferta de discotecas, restaurantes y eventos de ocio en la Comunidad Valenciana."
   },
   {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "San Fernando",
-    "desc": "Selección musical continua sin cortes comerciales."
+    "id": "TV4 La Vall Manual",
+    "name": "TV4 La Vall Manual",
+    "title": "Vall de Uxó (Castellón)",
+    "desc": "Información local sobre Vall d Uixó (Castellón)."
   },
   {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "San Fernando",
-    "desc": "Selección musical continua sin cortes comerciales."
+    "id": "Punt 3 Vall Uixo Manual",
+    "name": "Punt 3 Vall Uixo Manual",
+    "title": "Vall de Uxó (Castellón)",
+    "desc": "Información local sobre Vall d Uixó (Castellón)."
   },
   {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "San Fernando",
-    "desc": "Selección musical continua sin cortes comerciales."
+    "id": "Canal 56 Castellon Manual",
+    "name": "Canal 56 Castellon Manual",
+    "title": "Maestrazgo de Castellón",
+    "desc": "Información comarcal sobre el Maestrat de Castellón."
   },
   {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "San Fernando",
-    "desc": "Selección musical continua sin cortes comerciales."
+    "id": "Maestrat TV Manual",
+    "name": "Maestrat TV Manual",
+    "title": "Vinaròs, Benicarló y Peñíscola del Maestrazgo de Castellón",
+    "desc": "Información comarcal sobre el Maestrat de Castellón, enfocada principalmente en la actualidad local de municipios como Vinaròs, Benicarló y Peñíscola."
   },
   {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "San Fernando",
-    "desc": "Selección musical continua sin cortes comerciales."
+    "id": "TV Almassora Manual",
+    "name": "TV Almassora Manual",
+    "title": "Almazora (Castellón)",
+    "desc": "Información local sobre Almassora (Castellón)."
   },
   {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "San Fernando",
-    "desc": "Selección musical continua sin cortes comerciales."
+    "id": "Burriana TeVe Manual",
+    "name": "Burriana TeVe Manual",
+    "title": "Burriana (Castellón)",
+    "desc": "Información local sobre Borriana (Castellón)."
   },
   {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "San Fernando",
-    "desc": "Selección musical continua sin cortes comerciales."
+    "id": "Alacanti TV Manual",
+    "name": "Alacanti TV Manual",
+    "title": "Alicante, El Campello, Sant Joan y Xixona (Alicante)",
+    "desc": "Medio de comunicación público compuesto por el consorcio de los municipios de Alicante, El Campello, Sant Joan y Xixona."
   },
   {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "San Fernando",
-    "desc": "Selección musical continua sin cortes comerciales."
+    "id": "tvArtequeatre Manual",
+    "name": "tvArtequeatre Manual",
+    "title": "Onil (Alicante)",
+    "desc": "Información local sobre Onil (Alicante)."
   },
   {
-    "id": "Canal Musical",
-    "name": "Canal Musical",
-    "title": "San Fernando",
-    "desc": "Selección musical continua sin cortes comerciales."
+    "id": "12tv Alicante Manual",
+    "name": "12tv Alicante Manual",
+    "title": "Alicante",
+    "desc": "Información de proximidad sobre la provincia de Alicante."
   },
   {
     "id": "Canal Musical",
